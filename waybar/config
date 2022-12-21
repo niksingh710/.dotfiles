@@ -68,7 +68,7 @@
   "position": "bottom",
   "modules-left": [ "battery", "network", "cpu", "memory", "disk" ],
   "modules-center": [ "clock" ],
-  "modules-right": [ "custom/updates", "custom/github", "pulseaudio", "pulseaudio#mic", "bluetooth", "custom/weather" ],
+  "modules-right": [ "custom/updates", "custom/github", "backlight", "pulseaudio", "pulseaudio#mic", "bluetooth", "custom/weather" ],
   "clock": {
     "format-alt": "{:%Y-%m-%d}",
     "format": "{:%H:%M}",
@@ -120,6 +120,14 @@
   },
   "memory": {
     "format": "{}% "
+  },
+  "backlight": {
+   "device": "intel_backlight",
+   "format": "{percent}% {icon}",
+   //"format-icons": ["", ""]
+   "format-icons": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+   "on-scroll-up": "~/bin/brightness up",
+   "on-scroll-down": "~/bin/brightness down",
   },
   "disk": {
     "interval": 30,
