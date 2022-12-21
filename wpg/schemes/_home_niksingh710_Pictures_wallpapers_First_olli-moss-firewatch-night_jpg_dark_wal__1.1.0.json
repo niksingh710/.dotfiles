@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/olli-moss-firewatch-night.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#03030F",
+        "foreground": "#b9beb2",
+        "cursor": "#b9beb2"
+    },
+    "colors": {
+        "color0": "#03030F",
+        "color1": "#1C4557",
+        "color2": "#2A4759",
+        "color3": "#345566",
+        "color4": "#3D6271",
+        "color5": "#5E6258",
+        "color6": "#426776",
+        "color7": "#b9beb2",
+        "color8": "#81857c",
+        "color9": "#1C4557",
+        "color10": "#2A4759",
+        "color11": "#345566",
+        "color12": "#3D6271",
+        "color13": "#5E6258",
+        "color14": "#426776",
+        "color15": "#b9beb2"
+    }
+}

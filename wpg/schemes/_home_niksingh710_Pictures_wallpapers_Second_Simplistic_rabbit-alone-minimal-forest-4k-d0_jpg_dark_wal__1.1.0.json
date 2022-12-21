@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/rabbit-alone-minimal-forest-4k-d0.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#0e0c20",
+        "foreground": "#c8d3dd",
+        "cursor": "#c8d3dd"
+    },
+    "colors": {
+        "color0": "#0e0c20",
+        "color1": "#95857C",
+        "color2": "#6E5F88",
+        "color3": "#9B7690",
+        "color4": "#C07F89",
+        "color5": "#AE919C",
+        "color6": "#D3A294",
+        "color7": "#c8d3dd",
+        "color8": "#8c939a",
+        "color9": "#95857C",
+        "color10": "#6E5F88",
+        "color11": "#9B7690",
+        "color12": "#C07F89",
+        "color13": "#AE919C",
+        "color14": "#D3A294",
+        "color15": "#c8d3dd"
+    }
+}

@@ -38,7 +38,7 @@ hash hyprpicker 2>/dev/null || {
   notify "hyprpicker is not installed"
   exit
 }
-
+killall -q hyprpicker
 color=$(hyprpicker)
 prevColors=$(head -n $((limit-1)) "$loc/colors")
 echo "$color" > "$loc/colors"

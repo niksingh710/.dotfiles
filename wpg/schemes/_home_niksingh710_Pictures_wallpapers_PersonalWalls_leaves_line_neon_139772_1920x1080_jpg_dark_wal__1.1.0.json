@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/leaves_line_neon_139772_1920x1080.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#070710",
+        "foreground": "#d3d5ce",
+        "cursor": "#d3d5ce"
+    },
+    "colors": {
+        "color0": "#070710",
+        "color1": "#0C3149",
+        "color2": "#282C4B",
+        "color3": "#194D5A",
+        "color4": "#565B59",
+        "color5": "#648971",
+        "color6": "#ACBA60",
+        "color7": "#d3d5ce",
+        "color8": "#939590",
+        "color9": "#0C3149",
+        "color10": "#282C4B",
+        "color11": "#194D5A",
+        "color12": "#565B59",
+        "color13": "#648971",
+        "color14": "#ACBA60",
+        "color15": "#d3d5ce"
+    }
+}
