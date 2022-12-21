@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/Pixel Art/jungle_relic.png",
+    "alpha": "80",
+    "special": {
+        "background": "#090e04",
+        "foreground": "#ddecd1",
+        "cursor": "#ddecd1"
+    },
+    "colors": {
+        "color0": "#090e04",
+        "color1": "#50764F",
+        "color2": "#528C3B",
+        "color3": "#6A9463",
+        "color4": "#87AC76",
+        "color5": "#72BB8A",
+        "color6": "#B2D1A0",
+        "color7": "#ddecd1",
+        "color8": "#9aa592",
+        "color9": "#50764F",
+        "color10": "#528C3B",
+        "color11": "#6A9463",
+        "color12": "#87AC76",
+        "color13": "#72BB8A",
+        "color14": "#B2D1A0",
+        "color15": "#ddecd1"
+    }
+}

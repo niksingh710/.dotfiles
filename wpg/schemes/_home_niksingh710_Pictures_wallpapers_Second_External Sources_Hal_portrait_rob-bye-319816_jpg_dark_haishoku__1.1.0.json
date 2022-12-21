@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/rob-bye-319816.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181919",
+        "color1": "#374767",
+        "color2": "#4a6e41",
+        "color3": "#6a8a4b",
+        "color4": "#788280",
+        "color5": "#889cb1",
+        "color6": "#a2c0d2",
+        "color7": "#c5c5c5",
+        "color8": "#515252",
+        "color9": "#374767",
+        "color10": "#4a6e41",
+        "color11": "#6a8a4b",
+        "color12": "#788280",
+        "color13": "#889cb1",
+        "color14": "#a2c0d2",
+        "color15": "#c5c5c5"
+    }
+}

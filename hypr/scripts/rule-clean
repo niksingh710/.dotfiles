@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+sleep 3s
+
+arr=(
+  "foot"
+  "firefox"
+  "telegram-desktop"
+  "discord"
+)
+
+for i in "${arr[@]}"
+do
+  hyprctl keyword windowrule "workspace unset,$i"
+done
+

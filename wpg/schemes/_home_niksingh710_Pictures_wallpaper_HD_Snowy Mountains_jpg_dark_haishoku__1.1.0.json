@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/HD/Snowy Mountains.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#1c1e20",
+        "foreground": "#c6c6c7",
+        "cursor": "#c6c6c7"
+    },
+    "colors": {
+        "color0": "#1c1e20",
+        "color1": "#5a7387",
+        "color2": "#67909a",
+        "color3": "#8daeb1",
+        "color4": "#a0c0bc",
+        "color5": "#a6c6c6",
+        "color6": "#c1d1bb",
+        "color7": "#c6c6c7",
+        "color8": "#545657",
+        "color9": "#5a7387",
+        "color10": "#67909a",
+        "color11": "#8daeb1",
+        "color12": "#a0c0bc",
+        "color13": "#a6c6c6",
+        "color14": "#c1d1bb",
+        "color15": "#c6c6c7"
+    }
+}

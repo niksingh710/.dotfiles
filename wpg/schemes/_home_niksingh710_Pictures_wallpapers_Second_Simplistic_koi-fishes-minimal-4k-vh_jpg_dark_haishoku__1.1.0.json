@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/koi-fishes-minimal-4k-vh.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#3a3d47",
+        "color2": "#4c4f58",
+        "color3": "#67656b",
+        "color4": "#bd6d12",
+        "color5": "#7a7c82",
+        "color6": "#8d8a8e",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#3a3d47",
+        "color10": "#4c4f58",
+        "color11": "#67656b",
+        "color12": "#bd6d12",
+        "color13": "#7a7c82",
+        "color14": "#8d8a8e",
+        "color15": "#c4c4c5"
+    }
+}

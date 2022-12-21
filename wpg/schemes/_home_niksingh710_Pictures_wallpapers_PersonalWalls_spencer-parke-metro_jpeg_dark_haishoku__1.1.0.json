@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/spencer-parke-metro.jpeg",
+    "alpha": "85",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#61374c",
+        "color2": "#4f3f63",
+        "color3": "#724872",
+        "color4": "#8e5c8a",
+        "color5": "#b74e8a",
+        "color6": "#c26592",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#61374c",
+        "color10": "#4f3f63",
+        "color11": "#724872",
+        "color12": "#8e5c8a",
+        "color13": "#b74e8a",
+        "color14": "#c26592",
+        "color15": "#c5c5c5"
+    }
+}

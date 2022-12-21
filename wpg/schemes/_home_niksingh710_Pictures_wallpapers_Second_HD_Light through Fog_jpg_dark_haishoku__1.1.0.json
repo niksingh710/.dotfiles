@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/Light through Fog.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#181718",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181718",
+        "color1": "#6e2f34",
+        "color2": "#834145",
+        "color3": "#ce3237",
+        "color4": "#875058",
+        "color5": "#dc4f39",
+        "color6": "#bf6060",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#6e2f34",
+        "color10": "#834145",
+        "color11": "#ce3237",
+        "color12": "#875058",
+        "color13": "#dc4f39",
+        "color14": "#bf6060",
+        "color15": "#c5c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-3.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171618",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#171618",
+        "color1": "#534258",
+        "color2": "#6b3f53",
+        "color3": "#74485e",
+        "color4": "#d54953",
+        "color5": "#cf4d5f",
+        "color6": "#b86852",
+        "color7": "#c5c4c5",
+        "color8": "#515051",
+        "color9": "#534258",
+        "color10": "#6b3f53",
+        "color11": "#74485e",
+        "color12": "#d54953",
+        "color13": "#cf4d5f",
+        "color14": "#b86852",
+        "color15": "#c5c4c5"
+    }
+}

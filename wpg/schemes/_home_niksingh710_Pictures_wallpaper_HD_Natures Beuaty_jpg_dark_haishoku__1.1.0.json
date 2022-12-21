@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/HD/Natures Beuaty.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#16161a",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#16161a",
+        "color1": "#34386d",
+        "color2": "#76456f",
+        "color3": "#7f698f",
+        "color4": "#8a8cbc",
+        "color5": "#ca828c",
+        "color6": "#f1c892",
+        "color7": "#c4c4c5",
+        "color8": "#505053",
+        "color9": "#34386d",
+        "color10": "#76456f",
+        "color11": "#7f698f",
+        "color12": "#8a8cbc",
+        "color13": "#ca828c",
+        "color14": "#f1c892",
+        "color15": "#c4c4c5"
+    }
+}

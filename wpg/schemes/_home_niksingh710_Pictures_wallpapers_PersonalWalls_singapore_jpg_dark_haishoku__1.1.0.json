@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/singapore.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#5e5a58",
+        "color2": "#61626a",
+        "color3": "#827057",
+        "color4": "#878187",
+        "color5": "#c69054",
+        "color6": "#b9a495",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#5e5a58",
+        "color10": "#61626a",
+        "color11": "#827057",
+        "color12": "#878187",
+        "color13": "#c69054",
+        "color14": "#b9a495",
+        "color15": "#c5c5c6"
+    }
+}

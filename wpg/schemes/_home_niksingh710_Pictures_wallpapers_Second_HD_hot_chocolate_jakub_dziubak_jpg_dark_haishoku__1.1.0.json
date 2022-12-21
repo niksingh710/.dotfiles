@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/hot_chocolate_jakub_dziubak.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1f1c1b",
+        "foreground": "#c7c6c6",
+        "cursor": "#c7c6c6"
+    },
+    "colors": {
+        "color0": "#1f1c1b",
+        "color1": "#875b47",
+        "color2": "#a17256",
+        "color3": "#a88a6e",
+        "color4": "#c0865f",
+        "color5": "#c89a74",
+        "color6": "#d9b58f",
+        "color7": "#c7c6c6",
+        "color8": "#575454",
+        "color9": "#875b47",
+        "color10": "#a17256",
+        "color11": "#a88a6e",
+        "color12": "#c0865f",
+        "color13": "#c89a74",
+        "color14": "#d9b58f",
+        "color15": "#c7c6c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/unknown/ferns_morskie_oko.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#161817",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161817",
+        "color1": "#1d3c34",
+        "color2": "#244b2c",
+        "color3": "#255137",
+        "color4": "#36663c",
+        "color5": "#3b6e4f",
+        "color6": "#447e42",
+        "color7": "#c4c5c5",
+        "color8": "#505151",
+        "color9": "#1d3c34",
+        "color10": "#244b2c",
+        "color11": "#255137",
+        "color12": "#36663c",
+        "color13": "#3b6e4f",
+        "color14": "#447e42",
+        "color15": "#c4c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/safal-karki-690445-unsplash.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#120f0f",
+        "foreground": "#e2cac8",
+        "cursor": "#e2cac8"
+    },
+    "colors": {
+        "color0": "#120f0f",
+        "color1": "#C55C53",
+        "color2": "#B0827E",
+        "color3": "#206996",
+        "color4": "#61738F",
+        "color5": "#6E8CA7",
+        "color6": "#9C9AA6",
+        "color7": "#e2cac8",
+        "color8": "#9e8d8c",
+        "color9": "#C55C53",
+        "color10": "#B0827E",
+        "color11": "#206996",
+        "color12": "#61738F",
+        "color13": "#6E8CA7",
+        "color14": "#9C9AA6",
+        "color15": "#e2cac8"
+    }
+}

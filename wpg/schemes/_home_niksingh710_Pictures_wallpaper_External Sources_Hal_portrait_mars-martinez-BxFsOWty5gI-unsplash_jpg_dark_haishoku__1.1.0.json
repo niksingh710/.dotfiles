@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/mars-martinez-BxFsOWty5gI-unsplash.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#171715",
+        "foreground": "#c5c5c4",
+        "cursor": "#c5c5c4"
+    },
+    "colors": {
+        "color0": "#171715",
+        "color1": "#5a4812",
+        "color2": "#4f5413",
+        "color3": "#716a18",
+        "color4": "#77826d",
+        "color5": "#79b6b3",
+        "color6": "#cdb670",
+        "color7": "#c5c5c4",
+        "color8": "#51514f",
+        "color9": "#5a4812",
+        "color10": "#4f5413",
+        "color11": "#716a18",
+        "color12": "#77826d",
+        "color13": "#79b6b3",
+        "color14": "#cdb670",
+        "color15": "#c5c5c4"
+    }
+}

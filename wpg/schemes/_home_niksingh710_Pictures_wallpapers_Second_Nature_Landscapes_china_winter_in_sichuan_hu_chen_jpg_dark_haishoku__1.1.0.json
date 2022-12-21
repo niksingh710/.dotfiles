@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/china/winter_in_sichuan_hu_chen.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#18191b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#18191b",
+        "color1": "#234679",
+        "color2": "#61483f",
+        "color3": "#0968c0",
+        "color4": "#405e87",
+        "color5": "#747481",
+        "color6": "#8199bb",
+        "color7": "#c5c5c6",
+        "color8": "#515254",
+        "color9": "#234679",
+        "color10": "#61483f",
+        "color11": "#0968c0",
+        "color12": "#405e87",
+        "color13": "#747481",
+        "color14": "#8199bb",
+        "color15": "#c5c5c6"
+    }
+}

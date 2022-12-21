@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/northforest.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#14161a",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#14161a",
+        "color1": "#0a4384",
+        "color2": "#125fa4",
+        "color3": "#2481d0",
+        "color4": "#779ae5",
+        "color5": "#40c1ed",
+        "color6": "#72bef0",
+        "color7": "#c4c4c5",
+        "color8": "#4e5053",
+        "color9": "#0a4384",
+        "color10": "#125fa4",
+        "color11": "#2481d0",
+        "color12": "#779ae5",
+        "color13": "#40c1ed",
+        "color14": "#72bef0",
+        "color15": "#c4c4c5"
+    }
+}

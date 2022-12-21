@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/low-poly.jpeg",
+    "alpha": "93",
+    "special": {
+        "background": "#1b1a25",
+        "foreground": "#c6c5c8",
+        "cursor": "#c6c5c8"
+    },
+    "colors": {
+        "color0": "#1b1a25",
+        "color1": "#83244f",
+        "color2": "#762d7b",
+        "color3": "#0e6492",
+        "color4": "#845692",
+        "color5": "#7b73bd",
+        "color6": "#30adbd",
+        "color7": "#c6c5c8",
+        "color8": "#54535b",
+        "color9": "#83244f",
+        "color10": "#762d7b",
+        "color11": "#0e6492",
+        "color12": "#845692",
+        "color13": "#7b73bd",
+        "color14": "#30adbd",
+        "color15": "#c6c5c8"
+    }
+}

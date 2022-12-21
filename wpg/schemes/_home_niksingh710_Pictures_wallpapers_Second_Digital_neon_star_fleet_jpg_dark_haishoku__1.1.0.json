@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/neon_star_fleet.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#151519",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#151519",
+        "color1": "#202479",
+        "color2": "#672547",
+        "color3": "#76318c",
+        "color4": "#256592",
+        "color5": "#b656c8",
+        "color6": "#46a5bf",
+        "color7": "#c4c4c5",
+        "color8": "#4f4f52",
+        "color9": "#202479",
+        "color10": "#672547",
+        "color11": "#76318c",
+        "color12": "#256592",
+        "color13": "#b656c8",
+        "color14": "#46a5bf",
+        "color15": "#c4c4c5"
+    }
+}

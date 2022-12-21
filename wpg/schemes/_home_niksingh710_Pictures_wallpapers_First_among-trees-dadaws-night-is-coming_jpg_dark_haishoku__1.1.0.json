@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/among-trees-dadaws-night-is-coming.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#14141a",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#14141a",
+        "color1": "#053376",
+        "color2": "#034ea0",
+        "color3": "#2c5993",
+        "color4": "#0b6cb8",
+        "color5": "#7d7caa",
+        "color6": "#b89db2",
+        "color7": "#c4c4c5",
+        "color8": "#4e4e53",
+        "color9": "#053376",
+        "color10": "#034ea0",
+        "color11": "#2c5993",
+        "color12": "#0b6cb8",
+        "color13": "#7d7caa",
+        "color14": "#b89db2",
+        "color15": "#c4c4c5"
+    }
+}

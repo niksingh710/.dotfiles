@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Cyberpunk/Cyberpunk room-Night.png",
+    "alpha": "85",
+    "special": {
+        "background": "#151517",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#151517",
+        "color1": "#0c1a3d",
+        "color2": "#370e22",
+        "color3": "#3d144f",
+        "color4": "#00424a",
+        "color5": "#452672",
+        "color6": "#850b80",
+        "color7": "#c4c4c5",
+        "color8": "#4f4f51",
+        "color9": "#0c1a3d",
+        "color10": "#370e22",
+        "color11": "#3d144f",
+        "color12": "#00424a",
+        "color13": "#452672",
+        "color14": "#850b80",
+        "color15": "#c4c4c5"
+    }
+}

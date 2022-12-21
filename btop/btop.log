@@ -1,0 +1,17 @@
+
+2022/10/06 (10:41:06) | ===> btop++ v.1.2.9
+2022/10/06 (10:41:06) | ERROR: Invalid RGB decimal value: "ba1a84"
+2022/10/06 (10:41:20) | ERROR: Invalid RGB decimal value: "ba1a84"
+
+2022/10/06 (10:43:12) | ===> btop++ v.1.2.9
+2022/10/06 (10:43:12) | ERROR: Invalid RGB decimal value: "ba1a84"
+
+2022/10/06 (10:45:04) | ===> btop++ v.1.2.9
+2022/10/06 (10:45:04) | ERROR: Invalid RGB decimal value: "ba1a84"
+
+2022/10/06 (10:46:59) | ===> btop++ v.1.2.9
+2022/10/06 (10:46:59) | ERROR: Invalid RGB decimal value: "ba1a84"
+
+2022/10/08 (15:32:13) | ===> btop++ v.1.2.10
+2022/10/08 (15:32:13) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.

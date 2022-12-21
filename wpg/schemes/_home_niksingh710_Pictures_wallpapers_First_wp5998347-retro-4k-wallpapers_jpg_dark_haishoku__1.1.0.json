@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wp5998347-retro-4k-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15151b",
+        "foreground": "#c4c4c6",
+        "cursor": "#c4c4c6"
+    },
+    "colors": {
+        "color0": "#15151b",
+        "color1": "#1f255e",
+        "color2": "#6c1d4c",
+        "color3": "#792a5d",
+        "color4": "#267879",
+        "color5": "#d64267",
+        "color6": "#f07473",
+        "color7": "#c4c4c6",
+        "color8": "#4f4f54",
+        "color9": "#1f255e",
+        "color10": "#6c1d4c",
+        "color11": "#792a5d",
+        "color12": "#267879",
+        "color13": "#d64267",
+        "color14": "#f07473",
+        "color15": "#c4c4c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/kvacm-amythest-kingdom.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#19151d",
+        "foreground": "#c5c4c6",
+        "cursor": "#c5c4c6"
+    },
+    "colors": {
+        "color0": "#19151d",
+        "color1": "#3c368e",
+        "color2": "#6c3ca2",
+        "color3": "#2c74a9",
+        "color4": "#8b82d9",
+        "color5": "#25caad",
+        "color6": "#35cdd3",
+        "color7": "#c5c4c6",
+        "color8": "#524f55",
+        "color9": "#3c368e",
+        "color10": "#6c3ca2",
+        "color11": "#2c74a9",
+        "color12": "#8b82d9",
+        "color13": "#25caad",
+        "color14": "#35cdd3",
+        "color15": "#c5c4c6"
+    }
+}

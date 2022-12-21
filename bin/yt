@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# This is a simple yt script that will open yt in default browser
+
+hash xdg-open 2>/dev/null && {
+  [ $# -gt 0 ] && {
+    xdg-open "https://www.youtube.com/results?search_query=$*"
+  } || {
+    xdg-open "https://www.youtube.com/"
+  }
+  hash hyprctl 2>/dev/null && {
+    hyprctl dispatch focuswindow firefox  &>/dev/null # assuming firefox as default web browser.
+  }
+} || {
+  echo "err Faced."
+}

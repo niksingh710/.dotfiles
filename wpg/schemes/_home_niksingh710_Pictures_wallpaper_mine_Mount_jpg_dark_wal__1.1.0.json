@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/Mount.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#030C15",
+        "foreground": "#aecbdd",
+        "cursor": "#aecbdd"
+    },
+    "colors": {
+        "color0": "#030C15",
+        "color1": "#485974",
+        "color2": "#286A8C",
+        "color3": "#516E91",
+        "color4": "#827C90",
+        "color5": "#3586A7",
+        "color6": "#5F8FAF",
+        "color7": "#aecbdd",
+        "color8": "#798e9a",
+        "color9": "#485974",
+        "color10": "#286A8C",
+        "color11": "#516E91",
+        "color12": "#827C90",
+        "color13": "#3586A7",
+        "color14": "#5F8FAF",
+        "color15": "#aecbdd"
+    }
+}

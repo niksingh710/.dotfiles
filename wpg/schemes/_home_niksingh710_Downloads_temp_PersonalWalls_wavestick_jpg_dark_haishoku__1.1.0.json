@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Downloads/temp/PersonalWalls/wavestick.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#17181a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#17181a",
+        "color1": "#2c4163",
+        "color2": "#553a48",
+        "color3": "#4d4c66",
+        "color4": "#385c82",
+        "color5": "#516583",
+        "color6": "#577f9f",
+        "color7": "#c5c5c5",
+        "color8": "#515153",
+        "color9": "#2c4163",
+        "color10": "#553a48",
+        "color11": "#4d4c66",
+        "color12": "#385c82",
+        "color13": "#516583",
+        "color14": "#577f9f",
+        "color15": "#c5c5c5"
+    }
+}

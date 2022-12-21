@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/kuldarleement-stellar-collision.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171920",
+        "foreground": "#c5c5c7",
+        "cursor": "#c5c5c7"
+    },
+    "colors": {
+        "color0": "#171920",
+        "color1": "#224287",
+        "color2": "#2867a6",
+        "color3": "#665082",
+        "color4": "#1d89c7",
+        "color5": "#797398",
+        "color6": "#28c6e1",
+        "color7": "#c5c5c7",
+        "color8": "#515257",
+        "color9": "#224287",
+        "color10": "#2867a6",
+        "color11": "#665082",
+        "color12": "#1d89c7",
+        "color13": "#797398",
+        "color14": "#28c6e1",
+        "color15": "#c5c5c7"
+    }
+}

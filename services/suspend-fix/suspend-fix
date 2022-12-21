@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+# This script disables these hardware from waking the system up when in suspend state.
+# Suspend S3 was getting interrupted by these in archlinux with any kernel so made this.
+# Using this for <Lenovo ThinkBook 14 iml> as a user service in arch linux to make suspend possible.
+
+arr=("XHC" "RP03" "RP05" "RP09" "RP11" "RP13")
+
+for device in ${arr[@]}
+do
+    if grep -qw ^$device.*enabled /proc/acpi/wakeup; then
+        sudo sh -c "echo $device > /proc/acpi/wakeup"
+    fi
+done

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/sky.png",
+    "alpha": "83",
+    "special": {
+        "background": "#141718",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#141718",
+        "color1": "#014f5d",
+        "color2": "#03747b",
+        "color3": "#0fa3ad",
+        "color4": "#03aaaa",
+        "color5": "#10c2c3",
+        "color6": "#6cecec",
+        "color7": "#c4c5c5",
+        "color8": "#4e5151",
+        "color9": "#014f5d",
+        "color10": "#03747b",
+        "color11": "#0fa3ad",
+        "color12": "#03aaaa",
+        "color13": "#10c2c3",
+        "color14": "#6cecec",
+        "color15": "#c4c5c5"
+    }
+}

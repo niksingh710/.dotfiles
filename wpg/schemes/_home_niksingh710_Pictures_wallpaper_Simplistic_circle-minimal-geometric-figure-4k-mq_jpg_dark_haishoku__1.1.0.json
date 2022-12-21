@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/circle-minimal-geometric-figure-4k-mq.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#1c1d1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1c1d1e",
+        "color1": "#4eb5b1",
+        "color2": "#fd6a6b",
+        "color3": "#f58762",
+        "color4": "#4dcdc4",
+        "color5": "#f6c1bc",
+        "color6": "#fce56e",
+        "color7": "#c6c6c6",
+        "color8": "#545556",
+        "color9": "#4eb5b1",
+        "color10": "#fd6a6b",
+        "color11": "#f58762",
+        "color12": "#4dcdc4",
+        "color13": "#f6c1bc",
+        "color14": "#fce56e",
+        "color15": "#c6c6c6"
+    }
+}

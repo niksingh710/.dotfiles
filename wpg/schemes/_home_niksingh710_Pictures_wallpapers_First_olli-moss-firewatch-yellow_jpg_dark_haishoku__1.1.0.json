@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/olli-moss-firewatch-yellow.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191414",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#191414",
+        "color1": "#893119",
+        "color2": "#9c5c16",
+        "color3": "#e37c1b",
+        "color4": "#e28e31",
+        "color5": "#feb11b",
+        "color6": "#fac43d",
+        "color7": "#c5c4c4",
+        "color8": "#524e4e",
+        "color9": "#893119",
+        "color10": "#9c5c16",
+        "color11": "#e37c1b",
+        "color12": "#e28e31",
+        "color13": "#feb11b",
+        "color14": "#fac43d",
+        "color15": "#c5c4c4"
+    }
+}

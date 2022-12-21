@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/blackwolfshadow1-wolf-of-the-night.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181719",
+        "color1": "#2e375b",
+        "color2": "#7b2a48",
+        "color3": "#913658",
+        "color4": "#c23e64",
+        "color5": "#d3696f",
+        "color6": "#e27b8c",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#2e375b",
+        "color10": "#7b2a48",
+        "color11": "#913658",
+        "color12": "#c23e64",
+        "color13": "#d3696f",
+        "color14": "#e27b8c",
+        "color15": "#c5c5c5"
+    }
+}

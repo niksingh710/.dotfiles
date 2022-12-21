@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-eclipse.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181719",
+        "color1": "#7b353e",
+        "color2": "#bc4747",
+        "color3": "#e3525d",
+        "color4": "#dc5954",
+        "color5": "#ed6d72",
+        "color6": "#dba8b0",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#7b353e",
+        "color10": "#bc4747",
+        "color11": "#e3525d",
+        "color12": "#dc5954",
+        "color13": "#ed6d72",
+        "color14": "#dba8b0",
+        "color15": "#c5c5c5"
+    }
+}

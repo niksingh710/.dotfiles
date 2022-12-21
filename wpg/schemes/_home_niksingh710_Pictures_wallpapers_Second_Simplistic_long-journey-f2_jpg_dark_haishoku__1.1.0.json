@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/long-journey-f2.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171b1e",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#171b1e",
+        "color1": "#7b868d",
+        "color2": "#7692a7",
+        "color3": "#dd796e",
+        "color4": "#d4927c",
+        "color5": "#90afb6",
+        "color6": "#e0aa90",
+        "color7": "#c5c6c6",
+        "color8": "#515456",
+        "color9": "#7b868d",
+        "color10": "#7692a7",
+        "color11": "#dd796e",
+        "color12": "#d4927c",
+        "color13": "#90afb6",
+        "color14": "#e0aa90",
+        "color15": "#c5c6c6"
+    }
+}

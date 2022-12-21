@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/blyatus-maximus-blueish.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#14171d",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#14171d",
+        "color1": "#023875",
+        "color2": "#055293",
+        "color3": "#0d71b1",
+        "color4": "#357aad",
+        "color5": "#2789c3",
+        "color6": "#4798cb",
+        "color7": "#c4c5c6",
+        "color8": "#4e5155",
+        "color9": "#023875",
+        "color10": "#055293",
+        "color11": "#0d71b1",
+        "color12": "#357aad",
+        "color13": "#2789c3",
+        "color14": "#4798cb",
+        "color15": "#c4c5c6"
+    }
+}

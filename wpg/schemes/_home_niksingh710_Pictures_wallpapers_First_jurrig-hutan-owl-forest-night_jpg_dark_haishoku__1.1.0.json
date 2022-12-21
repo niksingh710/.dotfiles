@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/jurrig-hutan-owl-forest-night.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#141519",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#141519",
+        "color1": "#0f2a62",
+        "color2": "#2e4f2b",
+        "color3": "#1d4a89",
+        "color4": "#45602f",
+        "color5": "#1f5fac",
+        "color6": "#406262",
+        "color7": "#c4c4c5",
+        "color8": "#4e4f52",
+        "color9": "#0f2a62",
+        "color10": "#2e4f2b",
+        "color11": "#1d4a89",
+        "color12": "#45602f",
+        "color13": "#1f5fac",
+        "color14": "#406262",
+        "color15": "#c4c4c5"
+    }
+}

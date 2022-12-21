@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/voyager-otaam-tonion-lush-space.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191a1d",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1d",
+        "color1": "#485381",
+        "color2": "#87558e",
+        "color3": "#4d7e94",
+        "color4": "#84859d",
+        "color5": "#cc89a7",
+        "color6": "#d99ac5",
+        "color7": "#c5c5c6",
+        "color8": "#525355",
+        "color9": "#485381",
+        "color10": "#87558e",
+        "color11": "#4d7e94",
+        "color12": "#84859d",
+        "color13": "#cc89a7",
+        "color14": "#d99ac5",
+        "color15": "#c5c5c6"
+    }
+}

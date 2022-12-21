@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/godzilla-kong-ricebowl.png",
+    "alpha": "85",
+    "special": {
+        "background": "#141414",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#332d6c",
+        "color2": "#803965",
+        "color3": "#7c637d",
+        "color4": "#dd3965",
+        "color5": "#8b859f",
+        "color6": "#c8786e",
+        "color7": "#c4c4c4",
+        "color8": "#4e4e4e",
+        "color9": "#332d6c",
+        "color10": "#803965",
+        "color11": "#7c637d",
+        "color12": "#dd3965",
+        "color13": "#8b859f",
+        "color14": "#c8786e",
+        "color15": "#c4c4c4"
+    }
+}

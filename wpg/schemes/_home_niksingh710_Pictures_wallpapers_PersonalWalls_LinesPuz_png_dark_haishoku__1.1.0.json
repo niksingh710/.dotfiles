@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/LinesPuz.png",
+    "alpha": "85",
+    "special": {
+        "background": "#19191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19191a",
+        "color1": "#44303b",
+        "color2": "#363845",
+        "color3": "#31403d",
+        "color4": "#373c48",
+        "color5": "#47364c",
+        "color6": "#41423f",
+        "color7": "#c5c5c5",
+        "color8": "#525253",
+        "color9": "#44303b",
+        "color10": "#363845",
+        "color11": "#31403d",
+        "color12": "#373c48",
+        "color13": "#47364c",
+        "color14": "#41423f",
+        "color15": "#c5c5c5"
+    }
+}

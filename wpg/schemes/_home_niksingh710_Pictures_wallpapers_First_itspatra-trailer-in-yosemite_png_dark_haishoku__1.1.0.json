@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/itspatra-trailer-in-yosemite.png",
+    "alpha": "85",
+    "special": {
+        "background": "#19171c",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#19171c",
+        "color1": "#4d3f76",
+        "color2": "#644b78",
+        "color3": "#7d6495",
+        "color4": "#9a8dbe",
+        "color5": "#e58e94",
+        "color6": "#bea1c6",
+        "color7": "#c5c5c6",
+        "color8": "#525154",
+        "color9": "#4d3f76",
+        "color10": "#644b78",
+        "color11": "#7d6495",
+        "color12": "#9a8dbe",
+        "color13": "#e58e94",
+        "color14": "#bea1c6",
+        "color15": "#c5c5c6"
+    }
+}

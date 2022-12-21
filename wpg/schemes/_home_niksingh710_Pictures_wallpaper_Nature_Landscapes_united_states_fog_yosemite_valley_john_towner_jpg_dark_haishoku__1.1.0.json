@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Landscapes/united_states/fog_yosemite_valley_john_towner.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#191919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#3e5364",
+        "color2": "#515c55",
+        "color3": "#4e6273",
+        "color4": "#747f86",
+        "color5": "#96a1ac",
+        "color6": "#a5aeb5",
+        "color7": "#c5c5c5",
+        "color8": "#525252",
+        "color9": "#3e5364",
+        "color10": "#515c55",
+        "color11": "#4e6273",
+        "color12": "#747f86",
+        "color13": "#96a1ac",
+        "color14": "#a5aeb5",
+        "color15": "#c5c5c5"
+    }
+}

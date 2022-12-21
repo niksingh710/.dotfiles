@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/mtn_sky.png",
+    "alpha": "85",
+    "special": {
+        "background": "#151617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#151617",
+        "color1": "#051a24",
+        "color2": "#091d20",
+        "color3": "#0b2430",
+        "color4": "#1c2e38",
+        "color5": "#192f3d",
+        "color6": "#21333d",
+        "color7": "#c4c4c5",
+        "color8": "#4f5051",
+        "color9": "#051a24",
+        "color10": "#091d20",
+        "color11": "#0b2430",
+        "color12": "#1c2e38",
+        "color13": "#192f3d",
+        "color14": "#21333d",
+        "color15": "#c4c4c5"
+    }
+}

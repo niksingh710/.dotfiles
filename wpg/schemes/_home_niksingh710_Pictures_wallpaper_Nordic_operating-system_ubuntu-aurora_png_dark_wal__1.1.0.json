@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nordic/operating-system/ubuntu-aurora.png",
+    "alpha": "80",
+    "special": {
+        "background": "#121822",
+        "foreground": "#e5d7ba",
+        "cursor": "#e5d7ba"
+    },
+    "colors": {
+        "color0": "#121822",
+        "color1": "#BE626A",
+        "color2": "#C6636C",
+        "color3": "#A89773",
+        "color4": "#D18770",
+        "color5": "#CBA97C",
+        "color6": "#D4BA84",
+        "color7": "#e5d7ba",
+        "color8": "#a09682",
+        "color9": "#BE626A",
+        "color10": "#C6636C",
+        "color11": "#A89773",
+        "color12": "#D18770",
+        "color13": "#CBA97C",
+        "color14": "#D4BA84",
+        "color15": "#e5d7ba"
+    }
+}

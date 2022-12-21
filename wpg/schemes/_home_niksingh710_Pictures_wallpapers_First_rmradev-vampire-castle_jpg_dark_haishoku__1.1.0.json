@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/rmradev-vampire-castle.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161519",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161519",
+        "color1": "#293280",
+        "color2": "#304abe",
+        "color3": "#7344c6",
+        "color4": "#3c71de",
+        "color5": "#7786eb",
+        "color6": "#96c1f8",
+        "color7": "#c4c4c5",
+        "color8": "#504f52",
+        "color9": "#293280",
+        "color10": "#304abe",
+        "color11": "#7344c6",
+        "color12": "#3c71de",
+        "color13": "#7786eb",
+        "color14": "#96c1f8",
+        "color15": "#c4c4c5"
+    }
+}

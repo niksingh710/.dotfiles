@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/unknown/fogy_mountain.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191818",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191818",
+        "color1": "#4f4c4f",
+        "color2": "#5a4c45",
+        "color3": "#685548",
+        "color4": "#7f7469",
+        "color5": "#a49684",
+        "color6": "#ab9e8b",
+        "color7": "#c5c5c5",
+        "color8": "#525151",
+        "color9": "#4f4c4f",
+        "color10": "#5a4c45",
+        "color11": "#685548",
+        "color12": "#7f7469",
+        "color13": "#a49684",
+        "color14": "#ab9e8b",
+        "color15": "#c5c5c5"
+    }
+}

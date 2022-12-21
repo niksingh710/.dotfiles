@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/Christ in the clouds.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#1c1f1e",
+        "foreground": "#c6c7c6",
+        "cursor": "#c6c7c6"
+    },
+    "colors": {
+        "color0": "#1c1f1e",
+        "color1": "#aa9e7a",
+        "color2": "#a0aeb1",
+        "color3": "#a0aeb1",
+        "color4": "#bcb69e",
+        "color5": "#b5bec3",
+        "color6": "#b5bec3",
+        "color7": "#c6c7c6",
+        "color8": "#545756",
+        "color9": "#aa9e7a",
+        "color10": "#a0aeb1",
+        "color11": "#a0aeb1",
+        "color12": "#bcb69e",
+        "color13": "#b5bec3",
+        "color14": "#b5bec3",
+        "color15": "#c6c7c6"
+    }
+}

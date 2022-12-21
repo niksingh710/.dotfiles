@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/samara-doole-278468.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#4a5860",
+        "color2": "#4f6068",
+        "color3": "#7a7e80",
+        "color4": "#979c9e",
+        "color5": "#a89b91",
+        "color6": "#b4a598",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#4a5860",
+        "color10": "#4f6068",
+        "color11": "#7a7e80",
+        "color12": "#979c9e",
+        "color13": "#a89b91",
+        "color14": "#b4a598",
+        "color15": "#c5c5c6"
+    }
+}

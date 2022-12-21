@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/operating-system/linux-is-coming-1080p.png",
+    "alpha": "85",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#7c4347",
+        "color2": "#5b626c",
+        "color3": "#626e7b",
+        "color4": "#898f94",
+        "color5": "#8ba4be",
+        "color6": "#b1b5b9",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#7c4347",
+        "color10": "#5b626c",
+        "color11": "#626e7b",
+        "color12": "#898f94",
+        "color13": "#8ba4be",
+        "color14": "#b1b5b9",
+        "color15": "#c5c5c6"
+    }
+}

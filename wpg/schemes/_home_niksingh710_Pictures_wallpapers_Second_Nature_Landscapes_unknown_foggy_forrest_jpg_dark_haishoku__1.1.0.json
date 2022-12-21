@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/unknown/foggy_forrest.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1c1c1b",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1c1c1b",
+        "color1": "#5c584d",
+        "color2": "#575e4e",
+        "color3": "#606455",
+        "color4": "#717468",
+        "color5": "#858d7b",
+        "color6": "#8d9083",
+        "color7": "#c6c6c6",
+        "color8": "#545454",
+        "color9": "#5c584d",
+        "color10": "#575e4e",
+        "color11": "#606455",
+        "color12": "#717468",
+        "color13": "#858d7b",
+        "color14": "#8d9083",
+        "color15": "#c6c6c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/porco_rosso_studio_ghilbi.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#161919",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161919",
+        "color1": "#32614b",
+        "color2": "#3a756a",
+        "color3": "#708a7b",
+        "color4": "#84af88",
+        "color5": "#8fb2a9",
+        "color6": "#c7b58c",
+        "color7": "#c4c5c5",
+        "color8": "#505252",
+        "color9": "#32614b",
+        "color10": "#3a756a",
+        "color11": "#708a7b",
+        "color12": "#84af88",
+        "color13": "#8fb2a9",
+        "color14": "#c7b58c",
+        "color15": "#c4c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/dropside-the-valley-ultrawide-gradient-landscape.png",
+    "alpha": "85",
+    "special": {
+        "background": "#19191f",
+        "foreground": "#c5c5c7",
+        "cursor": "#c5c5c7"
+    },
+    "colors": {
+        "color0": "#19191f",
+        "color1": "#504a96",
+        "color2": "#735ca3",
+        "color3": "#3b94ca",
+        "color4": "#946eab",
+        "color5": "#d68dac",
+        "color6": "#e1a1b4",
+        "color7": "#c5c5c7",
+        "color8": "#525257",
+        "color9": "#504a96",
+        "color10": "#735ca3",
+        "color11": "#3b94ca",
+        "color12": "#946eab",
+        "color13": "#d68dac",
+        "color14": "#e1a1b4",
+        "color15": "#c5c5c7"
+    }
+}

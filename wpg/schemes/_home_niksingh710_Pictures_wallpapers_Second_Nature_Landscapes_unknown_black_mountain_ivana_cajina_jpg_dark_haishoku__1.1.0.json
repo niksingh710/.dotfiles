@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/unknown/black_mountain_ivana_cajina.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161717",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161717",
+        "color1": "#313b3d",
+        "color2": "#343f40",
+        "color3": "#556061",
+        "color4": "#626e70",
+        "color5": "#687274",
+        "color6": "#77746b",
+        "color7": "#c4c5c5",
+        "color8": "#505151",
+        "color9": "#313b3d",
+        "color10": "#343f40",
+        "color11": "#556061",
+        "color12": "#626e70",
+        "color13": "#687274",
+        "color14": "#77746b",
+        "color15": "#c4c5c5"
+    }
+}

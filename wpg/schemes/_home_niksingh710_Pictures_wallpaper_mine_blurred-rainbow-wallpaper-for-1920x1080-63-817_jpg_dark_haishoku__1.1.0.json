@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/blurred-rainbow-wallpaper-for-1920x1080-63-817.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#17161a",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#17161a",
+        "color1": "#342548",
+        "color2": "#742e39",
+        "color3": "#3a584f",
+        "color4": "#855b4e",
+        "color5": "#b9674e",
+        "color6": "#dc9a56",
+        "color7": "#c5c4c5",
+        "color8": "#515053",
+        "color9": "#342548",
+        "color10": "#742e39",
+        "color11": "#3a584f",
+        "color12": "#855b4e",
+        "color13": "#b9674e",
+        "color14": "#dc9a56",
+        "color15": "#c5c4c5"
+    }
+}

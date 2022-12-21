@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/trooper_still_life_oliver_wetter.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#1a1717",
+        "color1": "#674132",
+        "color2": "#806045",
+        "color3": "#8b7562",
+        "color4": "#ba7543",
+        "color5": "#bb9476",
+        "color6": "#ccb48d",
+        "color7": "#c5c5c5",
+        "color8": "#535151",
+        "color9": "#674132",
+        "color10": "#806045",
+        "color11": "#8b7562",
+        "color12": "#ba7543",
+        "color13": "#bb9476",
+        "color14": "#ccb48d",
+        "color15": "#c5c5c5"
+    }
+}

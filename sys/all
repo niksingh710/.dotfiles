@@ -1,0 +1,3 @@
+# This is for sys config
+[ -f "$HOME/.config/sys/env" ] && . "$HOME/.config/sys/env"
+[ -f "$HOME/.config/shell/path" ] && . "$HOME/.config/shell/path"

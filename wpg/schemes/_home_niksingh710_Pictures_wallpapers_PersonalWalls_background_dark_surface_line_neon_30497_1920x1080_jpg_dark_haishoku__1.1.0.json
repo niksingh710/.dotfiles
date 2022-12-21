@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/background_dark_surface_line_neon_30497_1920x1080.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#141414",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#232058",
+        "color2": "#143d6d",
+        "color3": "#3d2b77",
+        "color4": "#49387e",
+        "color5": "#1c4a9b",
+        "color6": "#58459d",
+        "color7": "#c4c4c4",
+        "color8": "#4e4e4e",
+        "color9": "#232058",
+        "color10": "#143d6d",
+        "color11": "#3d2b77",
+        "color12": "#49387e",
+        "color13": "#1c4a9b",
+        "color14": "#58459d",
+        "color15": "#c4c4c4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/windmill.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#09121a",
+        "foreground": "#e7c2cd",
+        "cursor": "#e7c2cd"
+    },
+    "colors": {
+        "color0": "#09121a",
+        "color1": "#E7867C",
+        "color2": "#485697",
+        "color3": "#635F9A",
+        "color4": "#9B6C98",
+        "color5": "#C77799",
+        "color6": "#C59ABE",
+        "color7": "#e7c2cd",
+        "color8": "#a1878f",
+        "color9": "#E7867C",
+        "color10": "#485697",
+        "color11": "#635F9A",
+        "color12": "#9B6C98",
+        "color13": "#C77799",
+        "color14": "#C59ABE",
+        "color15": "#e7c2cd"
+    }
+}

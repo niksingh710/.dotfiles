@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Downloads/temp/PersonalWalls/Alena/alena-aenami-sunrise.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#16181a",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#16181a",
+        "color1": "#1c516d",
+        "color2": "#2d6a87",
+        "color3": "#7b788c",
+        "color4": "#7d8da4",
+        "color5": "#cb939f",
+        "color6": "#e5918e",
+        "color7": "#c4c5c5",
+        "color8": "#505153",
+        "color9": "#1c516d",
+        "color10": "#2d6a87",
+        "color11": "#7b788c",
+        "color12": "#7d8da4",
+        "color13": "#cb939f",
+        "color14": "#e5918e",
+        "color15": "#c4c5c5"
+    }
+}

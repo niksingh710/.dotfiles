@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Gruvy/Rockface.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#16191c",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#16191c",
+        "color1": "#154d78",
+        "color2": "#5e5e5e",
+        "color3": "#457094",
+        "color4": "#81878c",
+        "color5": "#8ca6bb",
+        "color6": "#a6baca",
+        "color7": "#c4c5c6",
+        "color8": "#505254",
+        "color9": "#154d78",
+        "color10": "#5e5e5e",
+        "color11": "#457094",
+        "color12": "#81878c",
+        "color13": "#8ca6bb",
+        "color14": "#a6baca",
+        "color15": "#c4c5c6"
+    }
+}

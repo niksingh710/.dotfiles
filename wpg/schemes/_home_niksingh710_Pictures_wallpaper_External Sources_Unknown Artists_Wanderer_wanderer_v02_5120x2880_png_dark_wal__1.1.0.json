@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Unknown Artists/Wanderer/wanderer_v02_5120x2880.png",
+    "alpha": "80",
+    "special": {
+        "background": "#101c41",
+        "foreground": "#9ba4e8",
+        "cursor": "#9ba4e8"
+    },
+    "colors": {
+        "color0": "#101c41",
+        "color1": "#4C53B3",
+        "color2": "#2758CD",
+        "color3": "#1762CF",
+        "color4": "#2164D4",
+        "color5": "#3D6AEA",
+        "color6": "#4B4ED7",
+        "color7": "#9ba4e8",
+        "color8": "#6c72a2",
+        "color9": "#4C53B3",
+        "color10": "#2758CD",
+        "color11": "#1762CF",
+        "color12": "#2164D4",
+        "color13": "#3D6AEA",
+        "color14": "#4B4ED7",
+        "color15": "#9ba4e8"
+    }
+}

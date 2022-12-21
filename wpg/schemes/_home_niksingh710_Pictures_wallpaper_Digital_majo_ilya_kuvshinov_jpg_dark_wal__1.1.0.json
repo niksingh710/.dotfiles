@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/majo_ilya_kuvshinov.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#000000",
+        "foreground": "#f6e9f6",
+        "cursor": "#f6e9f6"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#8590A4",
+        "color2": "#B7A4B3",
+        "color3": "#E2B5CD",
+        "color4": "#F4CCD9",
+        "color5": "#D6D4E6",
+        "color6": "#F9D7E6",
+        "color7": "#f6e9f6",
+        "color8": "#aca3ac",
+        "color9": "#8590A4",
+        "color10": "#B7A4B3",
+        "color11": "#E2B5CD",
+        "color12": "#F4CCD9",
+        "color13": "#D6D4E6",
+        "color14": "#F9D7E6",
+        "color15": "#f6e9f6"
+    }
+}

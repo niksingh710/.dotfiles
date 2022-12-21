@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/tacosauceninja-remembering.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#18181b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#18181b",
+        "color1": "#3c3f6d",
+        "color2": "#5a5276",
+        "color3": "#77698c",
+        "color4": "#8a86c7",
+        "color5": "#cd8d9a",
+        "color6": "#cd9ebc",
+        "color7": "#c5c5c6",
+        "color8": "#515154",
+        "color9": "#3c3f6d",
+        "color10": "#5a5276",
+        "color11": "#77698c",
+        "color12": "#8a86c7",
+        "color13": "#cd8d9a",
+        "color14": "#cd9ebc",
+        "color15": "#c5c5c6"
+    }
+}

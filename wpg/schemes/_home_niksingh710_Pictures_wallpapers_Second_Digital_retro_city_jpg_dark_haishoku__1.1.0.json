@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/retro.city.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#16171a",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#16171a",
+        "color1": "#24129a",
+        "color2": "#3f15b8",
+        "color3": "#7313cc",
+        "color4": "#6f338f",
+        "color5": "#f187a2",
+        "color6": "#f9c4a9",
+        "color7": "#c4c5c5",
+        "color8": "#505153",
+        "color9": "#24129a",
+        "color10": "#3f15b8",
+        "color11": "#7313cc",
+        "color12": "#6f338f",
+        "color13": "#f187a2",
+        "color14": "#f9c4a9",
+        "color15": "#c4c5c5"
+    }
+}

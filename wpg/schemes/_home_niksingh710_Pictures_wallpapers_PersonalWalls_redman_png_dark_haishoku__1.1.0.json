@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/redman.png",
+    "alpha": "80",
+    "special": {
+        "background": "#171618",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#171618",
+        "color1": "#302d40",
+        "color2": "#631e36",
+        "color3": "#2e3d53",
+        "color4": "#7b2c47",
+        "color5": "#26546d",
+        "color6": "#7c3954",
+        "color7": "#c5c4c5",
+        "color8": "#515051",
+        "color9": "#302d40",
+        "color10": "#631e36",
+        "color11": "#2e3d53",
+        "color12": "#7b2c47",
+        "color13": "#26546d",
+        "color14": "#7c3954",
+        "color15": "#c5c4c5"
+    }
+}

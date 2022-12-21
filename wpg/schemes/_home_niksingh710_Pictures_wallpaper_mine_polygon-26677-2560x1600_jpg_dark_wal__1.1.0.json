@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/polygon-26677-2560x1600.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#030303",
+        "foreground": "#aaaaaa",
+        "cursor": "#aaaaaa"
+    },
+    "colors": {
+        "color0": "#030303",
+        "color1": "#242424",
+        "color2": "#2B2B2B",
+        "color3": "#333333",
+        "color4": "#3B3B3B",
+        "color5": "#454545",
+        "color6": "#555555",
+        "color7": "#aaaaaa",
+        "color8": "#767676",
+        "color9": "#242424",
+        "color10": "#2B2B2B",
+        "color11": "#333333",
+        "color12": "#3B3B3B",
+        "color13": "#454545",
+        "color14": "#555555",
+        "color15": "#aaaaaa"
+    }
+}

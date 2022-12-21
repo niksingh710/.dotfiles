@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/162b30d121fb507ebaa6e2a832beb2c11e6186cf_s2_n1.png",
+    "alpha": "85",
+    "special": {
+        "background": "#171923",
+        "foreground": "#c5c5c8",
+        "cursor": "#c5c5c8"
+    },
+    "colors": {
+        "color0": "#171923",
+        "color1": "#603f87",
+        "color2": "#2f55a5",
+        "color3": "#3e6cb2",
+        "color4": "#7182b5",
+        "color5": "#6ba4d0",
+        "color6": "#94c9df",
+        "color7": "#c5c5c8",
+        "color8": "#51525a",
+        "color9": "#603f87",
+        "color10": "#2f55a5",
+        "color11": "#3e6cb2",
+        "color12": "#7182b5",
+        "color13": "#6ba4d0",
+        "color14": "#94c9df",
+        "color15": "#c5c5c8"
+    }
+}

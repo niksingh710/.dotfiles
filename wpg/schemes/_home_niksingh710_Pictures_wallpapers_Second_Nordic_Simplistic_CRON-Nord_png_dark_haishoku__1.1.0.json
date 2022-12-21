@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/Simplistic/CRON-Nord.png",
+    "alpha": "80",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#4b5d64",
+        "color2": "#4c5d65",
+        "color3": "#5c757a",
+        "color4": "#6f9092",
+        "color5": "#709094",
+        "color6": "#719093",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#4b5d64",
+        "color10": "#4c5d65",
+        "color11": "#5c757a",
+        "color12": "#6f9092",
+        "color13": "#709094",
+        "color14": "#719093",
+        "color15": "#c5c5c6"
+    }
+}

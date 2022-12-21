@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/purple-utopia-1920\u00d71080.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#17161a",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#17161a",
+        "color1": "#621d45",
+        "color2": "#342c77",
+        "color3": "#6e3270",
+        "color4": "#4a3aac",
+        "color5": "#5d42ba",
+        "color6": "#845bc9",
+        "color7": "#c5c4c5",
+        "color8": "#515053",
+        "color9": "#621d45",
+        "color10": "#342c77",
+        "color11": "#6e3270",
+        "color12": "#4a3aac",
+        "color13": "#5d42ba",
+        "color14": "#845bc9",
+        "color15": "#c5c4c5"
+    }
+}

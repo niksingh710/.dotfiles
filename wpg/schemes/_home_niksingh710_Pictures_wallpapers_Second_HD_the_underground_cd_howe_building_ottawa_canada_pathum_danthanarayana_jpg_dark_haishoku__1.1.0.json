@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/the_underground_cd_howe_building_ottawa_canada_pathum_danthanarayana.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#151617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#151617",
+        "color1": "#0e3166",
+        "color2": "#15419e",
+        "color3": "#365472",
+        "color4": "#3655a2",
+        "color5": "#646b74",
+        "color6": "#7a80ac",
+        "color7": "#c4c4c5",
+        "color8": "#4f5051",
+        "color9": "#0e3166",
+        "color10": "#15419e",
+        "color11": "#365472",
+        "color12": "#3655a2",
+        "color13": "#646b74",
+        "color14": "#7a80ac",
+        "color15": "#c4c4c5"
+    }
+}

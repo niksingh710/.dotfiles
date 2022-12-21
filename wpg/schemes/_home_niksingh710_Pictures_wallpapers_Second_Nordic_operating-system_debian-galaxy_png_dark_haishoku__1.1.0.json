@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/operating-system/debian-galaxy.png",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1a1c",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#1a1a1c",
+        "color1": "#59414d",
+        "color2": "#59424c",
+        "color3": "#59424d",
+        "color4": "#744954",
+        "color5": "#91535c",
+        "color6": "#91535d",
+        "color7": "#c5c5c6",
+        "color8": "#535354",
+        "color9": "#59414d",
+        "color10": "#59424c",
+        "color11": "#59424d",
+        "color12": "#744954",
+        "color13": "#91535c",
+        "color14": "#91535d",
+        "color15": "#c5c5c6"
+    }
+}

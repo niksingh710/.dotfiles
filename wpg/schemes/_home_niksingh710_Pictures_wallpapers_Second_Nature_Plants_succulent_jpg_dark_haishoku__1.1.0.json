@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Plants/succulent.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181a1a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181a1a",
+        "color1": "#3b474d",
+        "color2": "#2c5441",
+        "color3": "#3e5a55",
+        "color4": "#5d6a6c",
+        "color5": "#668d7c",
+        "color6": "#7a838a",
+        "color7": "#c5c5c5",
+        "color8": "#515353",
+        "color9": "#3b474d",
+        "color10": "#2c5441",
+        "color11": "#3e5a55",
+        "color12": "#5d6a6c",
+        "color13": "#668d7c",
+        "color14": "#7a838a",
+        "color15": "#c5c5c5"
+    }
+}

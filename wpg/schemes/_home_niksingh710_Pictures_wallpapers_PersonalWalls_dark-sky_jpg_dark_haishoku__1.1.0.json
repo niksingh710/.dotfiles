@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/dark-sky.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#15171b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15171b",
+        "color1": "#493669",
+        "color2": "#5a3d62",
+        "color3": "#633e73",
+        "color4": "#8e4d82",
+        "color5": "#c5638d",
+        "color6": "#e57a9e",
+        "color7": "#c4c5c6",
+        "color8": "#4f5154",
+        "color9": "#493669",
+        "color10": "#5a3d62",
+        "color11": "#633e73",
+        "color12": "#8e4d82",
+        "color13": "#c5638d",
+        "color14": "#e57a9e",
+        "color15": "#c4c5c6"
+    }
+}

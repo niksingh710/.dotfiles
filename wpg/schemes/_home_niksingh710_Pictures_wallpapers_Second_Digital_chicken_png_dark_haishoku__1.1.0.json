@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/chicken.png",
+    "alpha": "85",
+    "special": {
+        "background": "#28231f",
+        "foreground": "#c9c8c7",
+        "cursor": "#c9c8c7"
+    },
+    "colors": {
+        "color0": "#28231f",
+        "color1": "#cda26e",
+        "color2": "#d2b293",
+        "color3": "#e1c569",
+        "color4": "#e0c5a4",
+        "color5": "#e7cf5f",
+        "color6": "#e5ceae",
+        "color7": "#c9c8c7",
+        "color8": "#5d5a57",
+        "color9": "#cda26e",
+        "color10": "#d2b293",
+        "color11": "#e1c569",
+        "color12": "#e0c5a4",
+        "color13": "#e7cf5f",
+        "color14": "#e5ceae",
+        "color15": "#c9c8c7"
+    }
+}

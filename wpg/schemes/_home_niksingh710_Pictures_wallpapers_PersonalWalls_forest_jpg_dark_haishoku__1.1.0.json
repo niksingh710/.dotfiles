@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/forest.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#15161a",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#15161a",
+        "color1": "#2a2b54",
+        "color2": "#634561",
+        "color3": "#795c6c",
+        "color4": "#897180",
+        "color5": "#b77b6d",
+        "color6": "#bc8c82",
+        "color7": "#c4c4c5",
+        "color8": "#4f5053",
+        "color9": "#2a2b54",
+        "color10": "#634561",
+        "color11": "#795c6c",
+        "color12": "#897180",
+        "color13": "#b77b6d",
+        "color14": "#bc8c82",
+        "color15": "#c4c4c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/Super Blood Moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#00061B",
+        "foreground": "#f59fc3",
+        "cursor": "#f59fc3"
+    },
+    "colors": {
+        "color0": "#00061B",
+        "color1": "#E01370",
+        "color2": "#F61374",
+        "color3": "#984777",
+        "color4": "#777A8A",
+        "color5": "#F93087",
+        "color6": "#B45486",
+        "color7": "#f59fc3",
+        "color8": "#ab6f88",
+        "color9": "#E01370",
+        "color10": "#F61374",
+        "color11": "#984777",
+        "color12": "#777A8A",
+        "color13": "#F93087",
+        "color14": "#B45486",
+        "color15": "#f59fc3"
+    }
+}

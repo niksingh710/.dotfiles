@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/ObMDaxk.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#251a1a",
+        "foreground": "#c8c5c5",
+        "cursor": "#c8c5c5"
+    },
+    "colors": {
+        "color0": "#251a1a",
+        "color1": "#ba8483",
+        "color2": "#4369aa",
+        "color3": "#1146aa",
+        "color4": "#3153aa",
+        "color5": "#646eaa",
+        "color6": "#927caa",
+        "color7": "#c8c5c5",
+        "color8": "#5b5353",
+        "color9": "#ba8483",
+        "color10": "#4369aa",
+        "color11": "#1146aa",
+        "color12": "#3153aa",
+        "color13": "#646eaa",
+        "color14": "#927caa",
+        "color15": "#c8c5c5"
+    }
+}

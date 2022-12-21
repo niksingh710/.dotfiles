@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/gathering_by_bisbiswas_de3y0tn.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#1a151a",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#1a151a",
+        "color1": "#4e0b55",
+        "color2": "#7b1c66",
+        "color3": "#4a5ab7",
+        "color4": "#d03373",
+        "color5": "#8d4f9d",
+        "color6": "#bf578d",
+        "color7": "#c5c4c5",
+        "color8": "#534f53",
+        "color9": "#4e0b55",
+        "color10": "#7b1c66",
+        "color11": "#4a5ab7",
+        "color12": "#d03373",
+        "color13": "#8d4f9d",
+        "color14": "#bf578d",
+        "color15": "#c5c4c5"
+    }
+}

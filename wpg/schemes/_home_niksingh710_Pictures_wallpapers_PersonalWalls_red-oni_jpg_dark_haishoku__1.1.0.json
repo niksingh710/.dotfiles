@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/red-oni.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#151414",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151414",
+        "color1": "#360001",
+        "color2": "#261214",
+        "color3": "#2c1214",
+        "color4": "#5a0001",
+        "color5": "#3b1b1c",
+        "color6": "#522324",
+        "color7": "#c4c4c4",
+        "color8": "#4f4e4e",
+        "color9": "#360001",
+        "color10": "#261214",
+        "color11": "#2c1214",
+        "color12": "#5a0001",
+        "color13": "#3b1b1c",
+        "color14": "#522324",
+        "color15": "#c4c4c4"
+    }
+}

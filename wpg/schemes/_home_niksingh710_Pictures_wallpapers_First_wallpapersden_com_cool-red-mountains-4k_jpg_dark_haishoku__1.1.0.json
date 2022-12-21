@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wallpapersden.com_cool-red-mountains-4k.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#19181a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19181a",
+        "color1": "#843547",
+        "color2": "#b74455",
+        "color3": "#976368",
+        "color4": "#cc5160",
+        "color5": "#e87071",
+        "color6": "#f5a496",
+        "color7": "#c5c5c5",
+        "color8": "#525153",
+        "color9": "#843547",
+        "color10": "#b74455",
+        "color11": "#976368",
+        "color12": "#cc5160",
+        "color13": "#e87071",
+        "color14": "#f5a496",
+        "color15": "#c5c5c5"
+    }
+}

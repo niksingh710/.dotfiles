@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/purple-gradient-polygon-15217.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#1f1d1e",
+        "foreground": "#c7c6c6",
+        "cursor": "#c7c6c6"
+    },
+    "colors": {
+        "color0": "#1f1d1e",
+        "color1": "#756690",
+        "color2": "#9e738c",
+        "color3": "#9084b9",
+        "color4": "#e1814d",
+        "color5": "#e38185",
+        "color6": "#aea4bc",
+        "color7": "#c7c6c6",
+        "color8": "#575556",
+        "color9": "#756690",
+        "color10": "#9e738c",
+        "color11": "#9084b9",
+        "color12": "#e1814d",
+        "color13": "#e38185",
+        "color14": "#aea4bc",
+        "color15": "#c7c6c6"
+    }
+}

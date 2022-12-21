@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/night_city_signs_neon_139551_1920x1080.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#15191b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15191b",
+        "color1": "#224670",
+        "color2": "#57315e",
+        "color3": "#793775",
+        "color4": "#1c667c",
+        "color5": "#1d6f55",
+        "color6": "#aa398d",
+        "color7": "#c4c5c6",
+        "color8": "#4f5254",
+        "color9": "#224670",
+        "color10": "#57315e",
+        "color11": "#793775",
+        "color12": "#1c667c",
+        "color13": "#1d6f55",
+        "color14": "#aa398d",
+        "color15": "#c4c5c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/flame-wallpaper-for-2560x1600-61-1054.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#161516",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#161516",
+        "color1": "#3e1e50",
+        "color2": "#7a2028",
+        "color3": "#783757",
+        "color4": "#c12f23",
+        "color5": "#d75b3b",
+        "color6": "#d07464",
+        "color7": "#c4c4c4",
+        "color8": "#504f50",
+        "color9": "#3e1e50",
+        "color10": "#7a2028",
+        "color11": "#783757",
+        "color12": "#c12f23",
+        "color13": "#d75b3b",
+        "color14": "#d07464",
+        "color15": "#c4c4c4"
+    }
+}

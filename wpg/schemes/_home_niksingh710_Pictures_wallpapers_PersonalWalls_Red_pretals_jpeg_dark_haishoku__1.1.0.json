@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Red_pretals.jpeg",
+    "alpha": "85",
+    "special": {
+        "background": "#181717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#2c2926",
+        "color2": "#37312b",
+        "color3": "#61241d",
+        "color4": "#413934",
+        "color5": "#98281d",
+        "color6": "#a52c25",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#2c2926",
+        "color10": "#37312b",
+        "color11": "#61241d",
+        "color12": "#413934",
+        "color13": "#98281d",
+        "color14": "#a52c25",
+        "color15": "#c5c5c5"
+    }
+}

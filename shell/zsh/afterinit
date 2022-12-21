@@ -1,0 +1,21 @@
+bindkey '^ ' autosuggest-accept
+
+command -v fcd 1>/dev/null && {
+  fcd-z(){
+    fcd
+    ls
+    zle reset-prompt
+  }
+  zle -N fcd-z fcd-z
+  bindkey '^G' fcd-z
+}
+
+hash fzf 2>/dev/null && {
+  [ -d "$loc/../fzf" ] && {
+    arr=($(find "$loc/../fzf/" -type f -iname "*.zsh"))
+    for i in "${arr[@]}"
+    do
+      source "$i"
+    done
+  }
+}

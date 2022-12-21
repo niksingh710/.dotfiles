@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/boats_nyhavn_denmark_john_towner.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#181a1a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181a1a",
+        "color1": "#684f3f",
+        "color2": "#796650",
+        "color3": "#818483",
+        "color4": "#bf754c",
+        "color5": "#c19b7d",
+        "color6": "#e0bb8c",
+        "color7": "#c5c5c5",
+        "color8": "#515353",
+        "color9": "#684f3f",
+        "color10": "#796650",
+        "color11": "#818483",
+        "color12": "#bf754c",
+        "color13": "#c19b7d",
+        "color14": "#e0bb8c",
+        "color15": "#c5c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/tranquility-minimal-4k-6q.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#7d3d47",
+        "color2": "#865464",
+        "color3": "#b84d50",
+        "color4": "#b9585e",
+        "color5": "#e28b7a",
+        "color6": "#feb499",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#7d3d47",
+        "color10": "#865464",
+        "color11": "#b84d50",
+        "color12": "#b9585e",
+        "color13": "#e28b7a",
+        "color14": "#feb499",
+        "color15": "#c5c5c5"
+    }
+}

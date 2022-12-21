@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/Textures/Cpu city.png",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1a1c",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#1a1a1c",
+        "color1": "#546882",
+        "color2": "#7e5f62",
+        "color3": "#607c9c",
+        "color4": "#7c92a7",
+        "color5": "#85a9c3",
+        "color6": "#97bfd0",
+        "color7": "#c5c5c6",
+        "color8": "#535354",
+        "color9": "#546882",
+        "color10": "#7e5f62",
+        "color11": "#607c9c",
+        "color12": "#7c92a7",
+        "color13": "#85a9c3",
+        "color14": "#97bfd0",
+        "color15": "#c5c5c6"
+    }
+}

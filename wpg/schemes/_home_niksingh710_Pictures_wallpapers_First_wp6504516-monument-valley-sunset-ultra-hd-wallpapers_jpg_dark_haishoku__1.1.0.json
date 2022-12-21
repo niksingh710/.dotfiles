@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wp6504516-monument-valley-sunset-ultra-hd-wallpapers.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1616",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#1a1616",
+        "color1": "#853a29",
+        "color2": "#b64220",
+        "color3": "#8a6d5e",
+        "color4": "#eb6029",
+        "color5": "#d58c68",
+        "color6": "#fbd989",
+        "color7": "#c5c4c4",
+        "color8": "#535050",
+        "color9": "#853a29",
+        "color10": "#b64220",
+        "color11": "#8a6d5e",
+        "color12": "#eb6029",
+        "color13": "#d58c68",
+        "color14": "#fbd989",
+        "color15": "#c5c4c4"
+    }
+}

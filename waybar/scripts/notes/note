@@ -1,0 +1,40 @@
+#!/bin/bash
+
+notify(){
+  hash notify-send 2>/dev/null && {
+    notify-send "$@"
+    return
+  }
+  echo "$@"
+}
+
+loc="$(dirname $(realpath ${BASH_SOURCE:-0}))"
+[ -f "$loc/notes" ] || touch "$loc/notes"
+
+[[ $# -eq 1 && $1 = "-l" ]] && {
+  cat "$loc/notes"
+  exit
+}
+[[ $# -eq 1 && $1 = "-j" ]] && {
+  tooltip="<b>Notes</b>\n"
+  tooltip+="$(cat "$loc/notes")"
+
+  cat << EOF
+{ "text":"", "tooltip":"$tooltip"}  
+EOF
+
+  exit
+}
+
+[ -z $EDITOR ] && {
+  notify "\$EDITOR is not set to editor"
+  exit
+}
+
+foot $EDITOR "$loc/notes"
+
+# color=$(hyprpicker)
+# prevColors=$(head -n $((limit-1)) "$loc/colors")
+# echo "$color" > "$loc/colors"
+# echo "$prevColors" >> "$loc/colors"
+

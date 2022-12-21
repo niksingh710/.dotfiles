@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/Simplistic/the-great-wave.png",
+    "alpha": "85",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#49596e",
+        "color2": "#4e5f72",
+        "color3": "#4d617d",
+        "color4": "#5b7085",
+        "color5": "#6c879d",
+        "color6": "#728fa5",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#49596e",
+        "color10": "#4e5f72",
+        "color11": "#4d617d",
+        "color12": "#5b7085",
+        "color13": "#6c879d",
+        "color14": "#728fa5",
+        "color15": "#c5c5c6"
+    }
+}

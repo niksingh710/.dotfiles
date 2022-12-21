@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/green-meadows-3360x1050.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#081504",
+        "foreground": "#e4e4e4",
+        "cursor": "#e4e4e4"
+    },
+    "colors": {
+        "color0": "#081504",
+        "color1": "#92A834",
+        "color2": "#BEBD5C",
+        "color3": "#496E8A",
+        "color4": "#8E7C82",
+        "color5": "#628FA3",
+        "color6": "#B7AAA1",
+        "color7": "#e4e4e4",
+        "color8": "#9f9f9f",
+        "color9": "#92A834",
+        "color10": "#BEBD5C",
+        "color11": "#496E8A",
+        "color12": "#8E7C82",
+        "color13": "#628FA3",
+        "color14": "#B7AAA1",
+        "color15": "#e4e4e4"
+    }
+}

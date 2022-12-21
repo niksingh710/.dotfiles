@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Gruvy/Sky Light.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#09011b",
+        "foreground": "#ebc6ca",
+        "cursor": "#ebc6ca"
+    },
+    "colors": {
+        "color0": "#09011b",
+        "color1": "#1D2A9C",
+        "color2": "#403CA8",
+        "color3": "#2351D3",
+        "color4": "#AE5787",
+        "color5": "#54ADE6",
+        "color6": "#54B9ED",
+        "color7": "#ebc6ca",
+        "color8": "#a48a8d",
+        "color9": "#1D2A9C",
+        "color10": "#403CA8",
+        "color11": "#2351D3",
+        "color12": "#AE5787",
+        "color13": "#54ADE6",
+        "color14": "#54B9ED",
+        "color15": "#ebc6ca"
+    }
+}

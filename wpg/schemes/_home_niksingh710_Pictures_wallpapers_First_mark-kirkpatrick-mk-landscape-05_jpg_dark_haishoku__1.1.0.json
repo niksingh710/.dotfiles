@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/mark-kirkpatrick-mk-landscape-05.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#212424",
+        "foreground": "#c7c8c8",
+        "cursor": "#c7c8c8"
+    },
+    "colors": {
+        "color0": "#212424",
+        "color1": "#7a908d",
+        "color2": "#999690",
+        "color3": "#b2a699",
+        "color4": "#a1b2a8",
+        "color5": "#d0a591",
+        "color6": "#a6bab0",
+        "color7": "#c7c8c8",
+        "color8": "#585a5a",
+        "color9": "#7a908d",
+        "color10": "#999690",
+        "color11": "#b2a699",
+        "color12": "#a1b2a8",
+        "color13": "#d0a591",
+        "color14": "#a6bab0",
+        "color15": "#c7c8c8"
+    }
+}

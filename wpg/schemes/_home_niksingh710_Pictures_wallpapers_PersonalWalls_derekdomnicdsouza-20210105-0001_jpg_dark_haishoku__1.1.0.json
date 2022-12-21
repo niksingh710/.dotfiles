@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/derekdomnicdsouza-20210105-0001.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#17181b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#17181b",
+        "color1": "#464261",
+        "color2": "#6b4e6b",
+        "color3": "#8f6a7d",
+        "color4": "#8181dc",
+        "color5": "#ce838f",
+        "color6": "#e195cd",
+        "color7": "#c5c5c6",
+        "color8": "#515154",
+        "color9": "#464261",
+        "color10": "#6b4e6b",
+        "color11": "#8f6a7d",
+        "color12": "#8181dc",
+        "color13": "#ce838f",
+        "color14": "#e195cd",
+        "color15": "#c5c5c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/Serenity.png",
+    "alpha": "80",
+    "special": {
+        "background": "#181819",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181819",
+        "color1": "#7a3f27",
+        "color2": "#b6521f",
+        "color3": "#c06b36",
+        "color4": "#82837f",
+        "color5": "#b99980",
+        "color6": "#c4b49e",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#7a3f27",
+        "color10": "#b6521f",
+        "color11": "#c06b36",
+        "color12": "#82837f",
+        "color13": "#b99980",
+        "color14": "#c4b49e",
+        "color15": "#c5c5c5"
+    }
+}

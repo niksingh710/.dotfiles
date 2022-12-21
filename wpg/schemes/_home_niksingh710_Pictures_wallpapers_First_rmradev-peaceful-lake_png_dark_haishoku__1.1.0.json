@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/rmradev-peaceful-lake.png",
+    "alpha": "80",
+    "special": {
+        "background": "#161619",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161619",
+        "color1": "#67344d",
+        "color2": "#306274",
+        "color3": "#7d3f62",
+        "color4": "#8b5c76",
+        "color5": "#d06291",
+        "color6": "#e282a4",
+        "color7": "#c4c4c5",
+        "color8": "#505052",
+        "color9": "#67344d",
+        "color10": "#306274",
+        "color11": "#7d3f62",
+        "color12": "#8b5c76",
+        "color13": "#d06291",
+        "color14": "#e282a4",
+        "color15": "#c4c4c5"
+    }
+}

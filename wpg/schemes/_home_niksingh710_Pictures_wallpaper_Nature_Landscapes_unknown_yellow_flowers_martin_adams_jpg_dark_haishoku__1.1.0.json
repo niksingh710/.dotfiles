@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Landscapes/unknown/yellow_flowers_martin_adams.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#2f2414",
+        "foreground": "#cbc8c4",
+        "cursor": "#cbc8c4"
+    },
+    "colors": {
+        "color0": "#2f2414",
+        "color1": "#ef9c0e",
+        "color2": "#fab33f",
+        "color3": "#fdc15f",
+        "color4": "#c4d6db",
+        "color5": "#fed388",
+        "color6": "#d3e1e4",
+        "color7": "#cbc8c4",
+        "color8": "#635a4e",
+        "color9": "#ef9c0e",
+        "color10": "#fab33f",
+        "color11": "#fdc15f",
+        "color12": "#c4d6db",
+        "color13": "#fed388",
+        "color14": "#d3e1e4",
+        "color15": "#cbc8c4"
+    }
+}

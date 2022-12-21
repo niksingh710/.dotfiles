@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/tohka852-pink-pixel-city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161819",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161819",
+        "color1": "#4d425b",
+        "color2": "#436350",
+        "color3": "#7e4b68",
+        "color4": "#797868",
+        "color5": "#c6708a",
+        "color6": "#d296b4",
+        "color7": "#c4c5c5",
+        "color8": "#505152",
+        "color9": "#4d425b",
+        "color10": "#436350",
+        "color11": "#7e4b68",
+        "color12": "#797868",
+        "color13": "#c6708a",
+        "color14": "#d296b4",
+        "color15": "#c4c5c5"
+    }
+}

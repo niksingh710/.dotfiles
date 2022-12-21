@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Upgrade
+Type = Package
+Target = *
+
+[Action]
+Description = Making grub silent on boot after grub update.
+Depends = timeshift-autosnap
+When = PostTransaction
+Exec = /etc/pacman.d/hooks.bin/silent-grub

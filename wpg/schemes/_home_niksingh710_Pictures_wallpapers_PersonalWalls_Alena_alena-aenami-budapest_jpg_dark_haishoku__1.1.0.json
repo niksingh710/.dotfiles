@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-budapest.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#19191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19191a",
+        "color1": "#4b4c5a",
+        "color2": "#76545e",
+        "color3": "#497d91",
+        "color4": "#866f74",
+        "color5": "#6f848e",
+        "color6": "#d98677",
+        "color7": "#c5c5c5",
+        "color8": "#525253",
+        "color9": "#4b4c5a",
+        "color10": "#76545e",
+        "color11": "#497d91",
+        "color12": "#866f74",
+        "color13": "#6f848e",
+        "color14": "#d98677",
+        "color15": "#c5c5c5"
+    }
+}

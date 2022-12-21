@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wp8860672-minimalist-wolf-wallpapers.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#161619",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161619",
+        "color1": "#243f77",
+        "color2": "#2e619e",
+        "color3": "#3a8eda",
+        "color4": "#64a5e8",
+        "color5": "#4eb3fb",
+        "color6": "#82d3fb",
+        "color7": "#c4c4c5",
+        "color8": "#505052",
+        "color9": "#243f77",
+        "color10": "#2e619e",
+        "color11": "#3a8eda",
+        "color12": "#64a5e8",
+        "color13": "#4eb3fb",
+        "color14": "#82d3fb",
+        "color15": "#c4c4c5"
+    }
+}

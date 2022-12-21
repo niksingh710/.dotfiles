@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/joeyjazz-antares.png",
+    "alpha": "85",
+    "special": {
+        "background": "#161819",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161819",
+        "color1": "#3d4661",
+        "color2": "#6f3342",
+        "color3": "#6d4b66",
+        "color4": "#886376",
+        "color5": "#dc4b62",
+        "color6": "#e77580",
+        "color7": "#c4c5c5",
+        "color8": "#505152",
+        "color9": "#3d4661",
+        "color10": "#6f3342",
+        "color11": "#6d4b66",
+        "color12": "#886376",
+        "color13": "#dc4b62",
+        "color14": "#e77580",
+        "color15": "#c4c5c5"
+    }
+}

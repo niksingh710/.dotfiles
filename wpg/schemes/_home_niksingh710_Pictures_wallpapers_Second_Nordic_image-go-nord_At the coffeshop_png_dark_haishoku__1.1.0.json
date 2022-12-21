@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/image-go-nord/At the coffeshop.png",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1b1c",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#1a1b1c",
+        "color1": "#4d596c",
+        "color2": "#515e70",
+        "color3": "#4f606b",
+        "color4": "#627885",
+        "color5": "#729098",
+        "color6": "#75949b",
+        "color7": "#c5c6c6",
+        "color8": "#535454",
+        "color9": "#4d596c",
+        "color10": "#515e70",
+        "color11": "#4f606b",
+        "color12": "#627885",
+        "color13": "#729098",
+        "color14": "#75949b",
+        "color15": "#c5c6c6"
+    }
+}

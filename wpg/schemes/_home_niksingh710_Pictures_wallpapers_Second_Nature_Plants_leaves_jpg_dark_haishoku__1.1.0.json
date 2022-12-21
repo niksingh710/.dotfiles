@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Plants/leaves.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171919",
+        "color1": "#2e4b4b",
+        "color2": "#2c5543",
+        "color3": "#345d50",
+        "color4": "#436f5d",
+        "color5": "#53846c",
+        "color6": "#5e887a",
+        "color7": "#c5c5c5",
+        "color8": "#515252",
+        "color9": "#2e4b4b",
+        "color10": "#2c5543",
+        "color11": "#345d50",
+        "color12": "#436f5d",
+        "color13": "#53846c",
+        "color14": "#5e887a",
+        "color15": "#c5c5c5"
+    }
+}

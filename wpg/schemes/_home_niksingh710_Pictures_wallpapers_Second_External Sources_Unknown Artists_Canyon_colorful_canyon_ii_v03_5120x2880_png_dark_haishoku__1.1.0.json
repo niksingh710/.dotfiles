@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Unknown Artists/Canyon/colorful_canyon_ii_v03_5120x2880.png",
+    "alpha": "85",
+    "special": {
+        "background": "#161717",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161717",
+        "color1": "#19477e",
+        "color2": "#634b28",
+        "color3": "#2c74c5",
+        "color4": "#6f787c",
+        "color5": "#7293c0",
+        "color6": "#2ceffa",
+        "color7": "#c4c5c5",
+        "color8": "#505151",
+        "color9": "#19477e",
+        "color10": "#634b28",
+        "color11": "#2c74c5",
+        "color12": "#6f787c",
+        "color13": "#7293c0",
+        "color14": "#2ceffa",
+        "color15": "#c4c5c5"
+    }
+}

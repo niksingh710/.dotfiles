@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/hut-house-and-starry-night.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#16181b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#16181b",
+        "color1": "#34476b",
+        "color2": "#416282",
+        "color3": "#687090",
+        "color4": "#4f8cb1",
+        "color5": "#788fb6",
+        "color6": "#72a1c3",
+        "color7": "#c4c5c6",
+        "color8": "#505154",
+        "color9": "#34476b",
+        "color10": "#416282",
+        "color11": "#687090",
+        "color12": "#4f8cb1",
+        "color13": "#788fb6",
+        "color14": "#72a1c3",
+        "color15": "#c4c5c6"
+    }
+}

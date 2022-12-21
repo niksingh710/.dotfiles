@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Paintings/grand_tour_main_arch.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#13130b",
+        "foreground": "#c5e2e3",
+        "cursor": "#c5e2e3"
+    },
+    "colors": {
+        "color0": "#13130b",
+        "color1": "#9E9669",
+        "color2": "#C9B472",
+        "color3": "#73A696",
+        "color4": "#76D4E6",
+        "color5": "#ADB18D",
+        "color6": "#CCCBA4",
+        "color7": "#c5e2e3",
+        "color8": "#899e9e",
+        "color9": "#9E9669",
+        "color10": "#C9B472",
+        "color11": "#73A696",
+        "color12": "#76D4E6",
+        "color13": "#ADB18D",
+        "color14": "#CCCBA4",
+        "color15": "#c5e2e3"
+    }
+}

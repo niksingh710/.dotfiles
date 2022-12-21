@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/irina-kostenich-599972-unsplash.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#171716",
+        "foreground": "#c5c5c4",
+        "cursor": "#c5c5c4"
+    },
+    "colors": {
+        "color0": "#171716",
+        "color1": "#533927",
+        "color2": "#594f3a",
+        "color3": "#6f6959",
+        "color4": "#9a5e31",
+        "color5": "#8e785d",
+        "color6": "#928874",
+        "color7": "#c5c5c4",
+        "color8": "#515150",
+        "color9": "#533927",
+        "color10": "#594f3a",
+        "color11": "#6f6959",
+        "color12": "#9a5e31",
+        "color13": "#8e785d",
+        "color14": "#928874",
+        "color15": "#c5c5c4"
+    }
+}

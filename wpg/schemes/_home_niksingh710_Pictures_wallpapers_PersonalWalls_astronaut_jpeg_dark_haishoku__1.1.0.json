@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/astronaut.jpeg",
+    "alpha": "85",
+    "special": {
+        "background": "#141516",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#141516",
+        "color1": "#25334b",
+        "color2": "#68302d",
+        "color3": "#753352",
+        "color4": "#39685a",
+        "color5": "#727023",
+        "color6": "#6f7261",
+        "color7": "#c4c4c4",
+        "color8": "#4e4f50",
+        "color9": "#25334b",
+        "color10": "#68302d",
+        "color11": "#753352",
+        "color12": "#39685a",
+        "color13": "#727023",
+        "color14": "#6f7261",
+        "color15": "#c4c4c4"
+    }
+}

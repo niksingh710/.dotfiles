@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/lucas-gallone-368519.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#191b1b",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#191b1b",
+        "color1": "#515f64",
+        "color2": "#6b6b56",
+        "color3": "#848771",
+        "color4": "#98a59f",
+        "color5": "#beb985",
+        "color6": "#8fccf8",
+        "color7": "#c5c6c6",
+        "color8": "#525454",
+        "color9": "#515f64",
+        "color10": "#6b6b56",
+        "color11": "#848771",
+        "color12": "#98a59f",
+        "color13": "#beb985",
+        "color14": "#8fccf8",
+        "color15": "#c5c6c6"
+    }
+}

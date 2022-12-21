@@ -1,0 +1,6 @@
+#!/bin/sh
+
+[ -f /boot/grub/grub.cfg ] || exit
+echo "Now commenting echo in /boot/grub/grub.cfg"
+sudo sed -i 's/echo/#echo/g' /boot/grub/grub.cfg 
+echo "Done Updating...."

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/intruders_2_stefan_koidl.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#161617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#242643",
+        "color2": "#282f54",
+        "color3": "#6d1719",
+        "color4": "#383450",
+        "color5": "#383e64",
+        "color6": "#5f3f4b",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#242643",
+        "color10": "#282f54",
+        "color11": "#6d1719",
+        "color12": "#383450",
+        "color13": "#383e64",
+        "color14": "#5f3f4b",
+        "color15": "#c4c4c5"
+    }
+}

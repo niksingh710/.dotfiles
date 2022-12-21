@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/arcipello-what-once-was.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171616",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#171616",
+        "color1": "#703b2b",
+        "color2": "#8e5f46",
+        "color3": "#896b73",
+        "color4": "#d8743b",
+        "color5": "#cb8f75",
+        "color6": "#ecbe88",
+        "color7": "#c5c4c4",
+        "color8": "#515050",
+        "color9": "#703b2b",
+        "color10": "#8e5f46",
+        "color11": "#896b73",
+        "color12": "#d8743b",
+        "color13": "#cb8f75",
+        "color14": "#ecbe88",
+        "color15": "#c5c4c4"
+    }
+}

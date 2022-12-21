@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/andreas-kind-311748.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#161718",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161718",
+        "color1": "#3c5166",
+        "color2": "#4f6379",
+        "color3": "#828498",
+        "color4": "#a3a2b5",
+        "color5": "#c7979e",
+        "color6": "#b4a8b7",
+        "color7": "#c4c5c5",
+        "color8": "#505151",
+        "color9": "#3c5166",
+        "color10": "#4f6379",
+        "color11": "#828498",
+        "color12": "#a3a2b5",
+        "color13": "#c7979e",
+        "color14": "#b4a8b7",
+        "color15": "#c4c5c5"
+    }
+}

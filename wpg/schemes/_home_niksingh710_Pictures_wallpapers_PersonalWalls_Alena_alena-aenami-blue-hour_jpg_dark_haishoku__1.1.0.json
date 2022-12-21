@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-blue-hour.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#17181d",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#17181d",
+        "color1": "#2f407f",
+        "color2": "#6f4560",
+        "color3": "#644d78",
+        "color4": "#465a8f",
+        "color5": "#7f6684",
+        "color6": "#ca7c7f",
+        "color7": "#c5c5c6",
+        "color8": "#515155",
+        "color9": "#2f407f",
+        "color10": "#6f4560",
+        "color11": "#644d78",
+        "color12": "#465a8f",
+        "color13": "#7f6684",
+        "color14": "#ca7c7f",
+        "color15": "#c5c5c6"
+    }
+}

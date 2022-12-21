@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/Simplistic/nordic-obsession.png",
+    "alpha": "90",
+    "special": {
+        "background": "#191a1c",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1c",
+        "color1": "#c06169",
+        "color2": "#cf856f",
+        "color3": "#b490ac",
+        "color4": "#8abdc6",
+        "color5": "#a3bc8d",
+        "color6": "#e3c489",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#c06169",
+        "color10": "#cf856f",
+        "color11": "#b490ac",
+        "color12": "#8abdc6",
+        "color13": "#a3bc8d",
+        "color14": "#e3c489",
+        "color15": "#c5c5c6"
+    }
+}

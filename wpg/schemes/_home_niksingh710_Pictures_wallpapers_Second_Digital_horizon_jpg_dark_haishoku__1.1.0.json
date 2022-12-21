@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/horizon.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#18191f",
+        "foreground": "#c5c5c7",
+        "cursor": "#c5c5c7"
+    },
+    "colors": {
+        "color0": "#18191f",
+        "color1": "#31589d",
+        "color2": "#436cb3",
+        "color3": "#727db5",
+        "color4": "#7f8cc5",
+        "color5": "#d095b4",
+        "color6": "#be9fca",
+        "color7": "#c5c5c7",
+        "color8": "#515257",
+        "color9": "#31589d",
+        "color10": "#436cb3",
+        "color11": "#727db5",
+        "color12": "#7f8cc5",
+        "color13": "#d095b4",
+        "color14": "#be9fca",
+        "color15": "#c5c5c7"
+    }
+}

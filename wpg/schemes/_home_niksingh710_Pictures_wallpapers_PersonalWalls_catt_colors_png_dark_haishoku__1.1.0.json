@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/catt_colors.png",
+    "alpha": "85",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#816a61",
+        "color2": "#7c8487",
+        "color3": "#c29988",
+        "color4": "#9ad0a3",
+        "color5": "#94c9ea",
+        "color6": "#f6bd96",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#816a61",
+        "color10": "#7c8487",
+        "color11": "#c29988",
+        "color12": "#9ad0a3",
+        "color13": "#94c9ea",
+        "color14": "#f6bd96",
+        "color15": "#c5c5c5"
+    }
+}

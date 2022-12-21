@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Paintings/Abstract Walls by niivu/blue swirl.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#141618",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#141618",
+        "color1": "#012459",
+        "color2": "#00278d",
+        "color3": "#033e6a",
+        "color4": "#1b4765",
+        "color5": "#015091",
+        "color6": "#0168a2",
+        "color7": "#c4c4c5",
+        "color8": "#4e5051",
+        "color9": "#012459",
+        "color10": "#00278d",
+        "color11": "#033e6a",
+        "color12": "#1b4765",
+        "color13": "#015091",
+        "color14": "#0168a2",
+        "color15": "#c4c4c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/baajjii-vector-desert.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1c1a",
+        "foreground": "#c6c6c5",
+        "cursor": "#c6c6c5"
+    },
+    "colors": {
+        "color0": "#1d1c1a",
+        "color1": "#a98950",
+        "color2": "#d29948",
+        "color3": "#dfb86b",
+        "color4": "#a5cfa8",
+        "color5": "#b5cd98",
+        "color6": "#e6d486",
+        "color7": "#c6c6c5",
+        "color8": "#555453",
+        "color9": "#a98950",
+        "color10": "#d29948",
+        "color11": "#dfb86b",
+        "color12": "#a5cfa8",
+        "color13": "#b5cd98",
+        "color14": "#e6d486",
+        "color15": "#c6c6c5"
+    }
+}

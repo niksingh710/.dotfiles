@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/olli-moss-firewatch-stag.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161e20",
+        "foreground": "#c4c6c7",
+        "cursor": "#c4c6c7"
+    },
+    "colors": {
+        "color0": "#161e20",
+        "color1": "#2397af",
+        "color2": "#37abcc",
+        "color3": "#76afb0",
+        "color4": "#5dbacb",
+        "color5": "#86cacc",
+        "color6": "#c1dcc8",
+        "color7": "#c4c6c7",
+        "color8": "#505657",
+        "color9": "#2397af",
+        "color10": "#37abcc",
+        "color11": "#76afb0",
+        "color12": "#5dbacb",
+        "color13": "#86cacc",
+        "color14": "#c1dcc8",
+        "color15": "#c4c6c7"
+    }
+}

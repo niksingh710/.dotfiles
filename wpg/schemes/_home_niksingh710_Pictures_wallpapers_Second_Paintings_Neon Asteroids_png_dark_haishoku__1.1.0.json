@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/Neon Asteroids.png",
+    "alpha": "85",
+    "special": {
+        "background": "#171518",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#171518",
+        "color1": "#f72a68",
+        "color2": "#f7754d",
+        "color3": "#73a9ca",
+        "color4": "#c681c5",
+        "color5": "#e5828c",
+        "color6": "#f2a177",
+        "color7": "#c5c4c5",
+        "color8": "#514f51",
+        "color9": "#f72a68",
+        "color10": "#f7754d",
+        "color11": "#73a9ca",
+        "color12": "#c681c5",
+        "color13": "#e5828c",
+        "color14": "#f2a177",
+        "color15": "#c5c4c5"
+    }
+}

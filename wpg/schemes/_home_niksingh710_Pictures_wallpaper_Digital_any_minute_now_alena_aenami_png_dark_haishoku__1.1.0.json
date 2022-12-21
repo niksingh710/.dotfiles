@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/any_minute_now_alena_aenami.png",
+    "alpha": "83",
+    "special": {
+        "background": "#141719",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#141719",
+        "color1": "#3d3e45",
+        "color2": "#753b3c",
+        "color3": "#89544f",
+        "color4": "#c6533e",
+        "color5": "#cc6953",
+        "color6": "#cc7f6b",
+        "color7": "#c4c5c5",
+        "color8": "#4e5152",
+        "color9": "#3d3e45",
+        "color10": "#753b3c",
+        "color11": "#89544f",
+        "color12": "#c6533e",
+        "color13": "#cc6953",
+        "color14": "#cc7f6b",
+        "color15": "#c4c5c5"
+    }
+}

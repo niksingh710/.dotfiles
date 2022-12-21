@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/new_zealand/mount_cook_canterbury_jordan_mcgee.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171717",
+        "color1": "#53535e",
+        "color2": "#5b5d69",
+        "color3": "#767a88",
+        "color4": "#8e93a1",
+        "color5": "#be8b8a",
+        "color6": "#a2a6b2",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#53535e",
+        "color10": "#5b5d69",
+        "color11": "#767a88",
+        "color12": "#8e93a1",
+        "color13": "#be8b8a",
+        "color14": "#a2a6b2",
+        "color15": "#c5c5c5"
+    }
+}

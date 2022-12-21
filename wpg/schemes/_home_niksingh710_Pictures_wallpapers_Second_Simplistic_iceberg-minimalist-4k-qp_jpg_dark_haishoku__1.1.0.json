@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/iceberg-minimalist-4k-qp.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#222224",
+        "foreground": "#c7c7c8",
+        "cursor": "#c7c7c8"
+    },
+    "colors": {
+        "color0": "#222224",
+        "color1": "#7c7a8c",
+        "color2": "#a07d85",
+        "color3": "#97808f",
+        "color4": "#b29498",
+        "color5": "#a3a1a7",
+        "color6": "#cd9191",
+        "color7": "#c7c7c8",
+        "color8": "#59595a",
+        "color9": "#7c7a8c",
+        "color10": "#a07d85",
+        "color11": "#97808f",
+        "color12": "#b29498",
+        "color13": "#a3a1a7",
+        "color14": "#cd9191",
+        "color15": "#c7c7c8"
+    }
+}

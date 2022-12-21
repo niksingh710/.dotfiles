@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/00035.png",
+    "alpha": "85",
+    "special": {
+        "background": "#181718",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181718",
+        "color1": "#613d45",
+        "color2": "#4e5157",
+        "color3": "#5f4f56",
+        "color4": "#767577",
+        "color5": "#b68e99",
+        "color6": "#a6aeb4",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#613d45",
+        "color10": "#4e5157",
+        "color11": "#5f4f56",
+        "color12": "#767577",
+        "color13": "#b68e99",
+        "color14": "#a6aeb4",
+        "color15": "#c5c5c5"
+    }
+}

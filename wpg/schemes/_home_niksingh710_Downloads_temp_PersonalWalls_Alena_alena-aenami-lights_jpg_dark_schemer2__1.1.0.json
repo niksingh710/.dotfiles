@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Downloads/temp/PersonalWalls/Alena/alena-aenami-lights.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#011e11",
+        "foreground": "#bfc6c3",
+        "cursor": "#bfc6c3"
+    },
+    "colors": {
+        "color0": "#011e11",
+        "color1": "#747d84",
+        "color2": "#0cb66f",
+        "color3": "#3e9f76",
+        "color4": "#28c07f",
+        "color5": "#889196",
+        "color6": "#c68e5b",
+        "color7": "#bfc6c3",
+        "color8": "#40564c",
+        "color9": "#747d84",
+        "color10": "#0cb66f",
+        "color11": "#3e9f76",
+        "color12": "#28c07f",
+        "color13": "#889196",
+        "color14": "#c68e5b",
+        "color15": "#bfc6c3"
+    }
+}

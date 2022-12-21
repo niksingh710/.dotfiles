@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/space.png",
+    "alpha": "85",
+    "special": {
+        "background": "#181818",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#583d37",
+        "color2": "#574e48",
+        "color3": "#915441",
+        "color4": "#6e665f",
+        "color5": "#8a776d",
+        "color6": "#8c8178",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#583d37",
+        "color10": "#574e48",
+        "color11": "#915441",
+        "color12": "#6e665f",
+        "color13": "#8a776d",
+        "color14": "#8c8178",
+        "color15": "#c5c5c5"
+    }
+}

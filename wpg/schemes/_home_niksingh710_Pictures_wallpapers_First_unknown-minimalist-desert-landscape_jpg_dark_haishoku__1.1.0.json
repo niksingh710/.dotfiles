@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/unknown-minimalist-desert-landscape.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1a1717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#1a1717",
+        "color1": "#6c2b1e",
+        "color2": "#934b2d",
+        "color3": "#845764",
+        "color4": "#c65c2f",
+        "color5": "#c67058",
+        "color6": "#6b9fc7",
+        "color7": "#c5c5c5",
+        "color8": "#535151",
+        "color9": "#6c2b1e",
+        "color10": "#934b2d",
+        "color11": "#845764",
+        "color12": "#c65c2f",
+        "color13": "#c67058",
+        "color14": "#6b9fc7",
+        "color15": "#c5c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/keyboards/RW-U80-A.1632.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#161617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#262221",
+        "color2": "#202427",
+        "color3": "#22272a",
+        "color4": "#2b3034",
+        "color5": "#494c4e",
+        "color6": "#4a4c4d",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#262221",
+        "color10": "#202427",
+        "color11": "#22272a",
+        "color12": "#2b3034",
+        "color13": "#494c4e",
+        "color14": "#4a4c4d",
+        "color15": "#c4c4c5"
+    }
+}

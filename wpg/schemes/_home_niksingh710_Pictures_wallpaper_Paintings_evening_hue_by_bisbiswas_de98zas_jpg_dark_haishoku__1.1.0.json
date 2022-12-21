@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Paintings/evening_hue_by_bisbiswas_de98zas.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#191717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191717",
+        "color1": "#c4255b",
+        "color2": "#df4530",
+        "color3": "#f37320",
+        "color4": "#f3cc35",
+        "color5": "#dece66",
+        "color6": "#a3e2ac",
+        "color7": "#c5c5c5",
+        "color8": "#525151",
+        "color9": "#c4255b",
+        "color10": "#df4530",
+        "color11": "#f37320",
+        "color12": "#f3cc35",
+        "color13": "#dece66",
+        "color14": "#a3e2ac",
+        "color15": "#c5c5c5"
+    }
+}

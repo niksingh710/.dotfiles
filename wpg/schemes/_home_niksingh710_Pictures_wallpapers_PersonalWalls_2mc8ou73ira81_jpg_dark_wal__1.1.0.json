@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/2mc8ou73ira81.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#0D1012",
+        "foreground": "#b7b3b4",
+        "cursor": "#b7b3b4"
+    },
+    "colors": {
+        "color0": "#0D1012",
+        "color1": "#453939",
+        "color2": "#3B3D42",
+        "color3": "#3E4145",
+        "color4": "#484040",
+        "color5": "#4E4C4D",
+        "color6": "#696565",
+        "color7": "#b7b3b4",
+        "color8": "#807d7d",
+        "color9": "#453939",
+        "color10": "#3B3D42",
+        "color11": "#3E4145",
+        "color12": "#484040",
+        "color13": "#4E4C4D",
+        "color14": "#696565",
+        "color15": "#b7b3b4"
+    }
+}

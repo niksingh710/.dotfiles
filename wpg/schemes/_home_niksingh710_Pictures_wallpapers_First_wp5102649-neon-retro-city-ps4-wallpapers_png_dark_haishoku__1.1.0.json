@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wp5102649-neon-retro-city-ps4-wallpapers.png",
+    "alpha": "85",
+    "special": {
+        "background": "#17141a",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#17141a",
+        "color1": "#5d0a50",
+        "color2": "#362071",
+        "color3": "#731272",
+        "color4": "#c51b9a",
+        "color5": "#41649b",
+        "color6": "#3969bd",
+        "color7": "#c5c4c5",
+        "color8": "#514e53",
+        "color9": "#5d0a50",
+        "color10": "#362071",
+        "color11": "#731272",
+        "color12": "#c51b9a",
+        "color13": "#41649b",
+        "color14": "#3969bd",
+        "color15": "#c5c4c5"
+    }
+}

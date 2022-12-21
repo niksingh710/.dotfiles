@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/by-kvacm-gorod-zakat-liudi-siluty-budushchee.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191514",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#191514",
+        "color1": "#7b230d",
+        "color2": "#ce3813",
+        "color3": "#966424",
+        "color4": "#ee7c1f",
+        "color5": "#fbca3c",
+        "color6": "#fced62",
+        "color7": "#c5c4c4",
+        "color8": "#524f4e",
+        "color9": "#7b230d",
+        "color10": "#ce3813",
+        "color11": "#966424",
+        "color12": "#ee7c1f",
+        "color13": "#fbca3c",
+        "color14": "#fced62",
+        "color15": "#c5c4c4"
+    }
+}

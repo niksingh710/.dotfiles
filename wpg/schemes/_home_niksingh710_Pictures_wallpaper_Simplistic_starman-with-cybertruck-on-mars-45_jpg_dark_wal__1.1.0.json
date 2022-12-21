@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/starman-with-cybertruck-on-mars-45.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0d0a0d",
+        "foreground": "#b5b5b7",
+        "cursor": "#b5b5b7"
+    },
+    "colors": {
+        "color0": "#0d0a0d",
+        "color1": "#AF443C",
+        "color2": "#A53C43",
+        "color3": "#A95551",
+        "color4": "#DF5E53",
+        "color5": "#C49B72",
+        "color6": "#F89C6A",
+        "color7": "#b5b5b7",
+        "color8": "#7e7e80",
+        "color9": "#AF443C",
+        "color10": "#A53C43",
+        "color11": "#A95551",
+        "color12": "#DF5E53",
+        "color13": "#C49B72",
+        "color14": "#F89C6A",
+        "color15": "#b5b5b7"
+    }
+}

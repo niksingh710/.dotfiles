@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/mklgustafsson-among-trees-river-side.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#14161b",
+        "foreground": "#c4c4c6",
+        "cursor": "#c4c4c6"
+    },
+    "colors": {
+        "color0": "#14161b",
+        "color1": "#133973",
+        "color2": "#26648c",
+        "color3": "#227eab",
+        "color4": "#756e87",
+        "color5": "#38c3cd",
+        "color6": "#81cfcb",
+        "color7": "#c4c4c6",
+        "color8": "#4e5054",
+        "color9": "#133973",
+        "color10": "#26648c",
+        "color11": "#227eab",
+        "color12": "#756e87",
+        "color13": "#38c3cd",
+        "color14": "#81cfcb",
+        "color15": "#c4c4c6"
+    }
+}

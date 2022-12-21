@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Widescreen/Star Wars Crossover.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#020202",
+        "foreground": "#c6ccdf",
+        "cursor": "#c6ccdf"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#3A4C88",
+        "color2": "#626C98",
+        "color3": "#A0788B",
+        "color4": "#7787B7",
+        "color5": "#96919F",
+        "color6": "#CBABB7",
+        "color7": "#c6ccdf",
+        "color8": "#8a8e9c",
+        "color9": "#3A4C88",
+        "color10": "#626C98",
+        "color11": "#A0788B",
+        "color12": "#7787B7",
+        "color13": "#96919F",
+        "color14": "#CBABB7",
+        "color15": "#c6ccdf"
+    }
+}

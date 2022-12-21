@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/forza-5-1920\u00d71080.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#141414",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#141414",
+        "color1": "#292350",
+        "color2": "#562025",
+        "color3": "#522d44",
+        "color4": "#3c4076",
+        "color5": "#673c4a",
+        "color6": "#733b30",
+        "color7": "#c4c4c4",
+        "color8": "#4e4e4e",
+        "color9": "#292350",
+        "color10": "#562025",
+        "color11": "#522d44",
+        "color12": "#3c4076",
+        "color13": "#673c4a",
+        "color14": "#733b30",
+        "color15": "#c4c4c4"
+    }
+}

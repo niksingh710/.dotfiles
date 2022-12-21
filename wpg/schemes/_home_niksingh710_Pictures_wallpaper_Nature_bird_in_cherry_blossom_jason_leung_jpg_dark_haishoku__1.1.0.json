@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/bird_in_cherry_blossom_jason_leung.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#191919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#456375",
+        "color2": "#767e87",
+        "color3": "#8499af",
+        "color4": "#b98590",
+        "color5": "#c198af",
+        "color6": "#9ab0c3",
+        "color7": "#c5c5c5",
+        "color8": "#525252",
+        "color9": "#456375",
+        "color10": "#767e87",
+        "color11": "#8499af",
+        "color12": "#b98590",
+        "color13": "#c198af",
+        "color14": "#9ab0c3",
+        "color15": "#c5c5c5"
+    }
+}

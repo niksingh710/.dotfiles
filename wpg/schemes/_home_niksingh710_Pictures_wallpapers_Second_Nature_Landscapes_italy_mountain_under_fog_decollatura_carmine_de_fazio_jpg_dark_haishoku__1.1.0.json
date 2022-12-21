@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/italy/mountain_under_fog_decollatura_carmine_de_fazio.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1b1b1c",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1b1b1c",
+        "color1": "#5e6a5d",
+        "color2": "#5f6b63",
+        "color3": "#6d735e",
+        "color4": "#7e846a",
+        "color5": "#9b9973",
+        "color6": "#a7a57c",
+        "color7": "#c6c6c6",
+        "color8": "#545454",
+        "color9": "#5e6a5d",
+        "color10": "#5f6b63",
+        "color11": "#6d735e",
+        "color12": "#7e846a",
+        "color13": "#9b9973",
+        "color14": "#a7a57c",
+        "color15": "#c6c6c6"
+    }
+}

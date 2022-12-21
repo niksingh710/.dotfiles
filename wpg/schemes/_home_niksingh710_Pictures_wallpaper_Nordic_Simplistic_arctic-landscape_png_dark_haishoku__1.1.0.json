@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nordic/Simplistic/arctic-landscape.png",
+    "alpha": "83",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#5b6c81",
+        "color2": "#65829a",
+        "color3": "#869aa9",
+        "color4": "#87b1c3",
+        "color5": "#8cb9bb",
+        "color6": "#89bfce",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#5b6c81",
+        "color10": "#65829a",
+        "color11": "#869aa9",
+        "color12": "#87b1c3",
+        "color13": "#8cb9bb",
+        "color14": "#89bfce",
+        "color15": "#c5c5c6"
+    }
+}

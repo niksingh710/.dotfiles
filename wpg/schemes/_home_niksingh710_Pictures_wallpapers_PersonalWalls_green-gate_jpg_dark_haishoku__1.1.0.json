@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/green-gate.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171817",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171817",
+        "color1": "#465541",
+        "color2": "#4a5c4c",
+        "color3": "#546144",
+        "color4": "#717c61",
+        "color5": "#94a07b",
+        "color6": "#a5ab86",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#465541",
+        "color10": "#4a5c4c",
+        "color11": "#546144",
+        "color12": "#717c61",
+        "color13": "#94a07b",
+        "color14": "#a5ab86",
+        "color15": "#c5c5c5"
+    }
+}

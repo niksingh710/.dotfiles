@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/kien-do-278342.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#1a1b19",
+        "foreground": "#c5c6c5",
+        "cursor": "#c5c6c5"
+    },
+    "colors": {
+        "color0": "#1a1b19",
+        "color1": "#5d6a4d",
+        "color2": "#5c7063",
+        "color3": "#72724a",
+        "color4": "#858e7a",
+        "color5": "#aab09d",
+        "color6": "#bcb89d",
+        "color7": "#c5c6c5",
+        "color8": "#535452",
+        "color9": "#5d6a4d",
+        "color10": "#5c7063",
+        "color11": "#72724a",
+        "color12": "#858e7a",
+        "color13": "#aab09d",
+        "color14": "#bcb89d",
+        "color15": "#c5c6c5"
+    }
+}

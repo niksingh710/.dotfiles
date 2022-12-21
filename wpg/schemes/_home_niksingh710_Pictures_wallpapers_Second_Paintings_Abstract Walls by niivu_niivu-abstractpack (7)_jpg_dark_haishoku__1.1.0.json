@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/Abstract Walls by niivu/niivu-abstractpack (7).jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#292521",
+        "foreground": "#c9c8c7",
+        "cursor": "#c9c8c7"
+    },
+    "colors": {
+        "color0": "#292521",
+        "color1": "#76b1d2",
+        "color2": "#d39979",
+        "color3": "#a5aba7",
+        "color4": "#8bbad5",
+        "color5": "#d5af9b",
+        "color6": "#9fd1e2",
+        "color7": "#c9c8c7",
+        "color8": "#5e5b58",
+        "color9": "#76b1d2",
+        "color10": "#d39979",
+        "color11": "#a5aba7",
+        "color12": "#8bbad5",
+        "color13": "#d5af9b",
+        "color14": "#9fd1e2",
+        "color15": "#c9c8c7"
+    }
+}

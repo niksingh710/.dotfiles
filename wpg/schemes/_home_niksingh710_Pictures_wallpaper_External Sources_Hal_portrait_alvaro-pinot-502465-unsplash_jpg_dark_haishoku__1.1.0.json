@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/alvaro-pinot-502465-unsplash.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#15171b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15171b",
+        "color1": "#445769",
+        "color2": "#495f76",
+        "color3": "#8393a1",
+        "color4": "#97a6b8",
+        "color5": "#9caab4",
+        "color6": "#a3b0bb",
+        "color7": "#c4c5c6",
+        "color8": "#4f5154",
+        "color9": "#445769",
+        "color10": "#495f76",
+        "color11": "#8393a1",
+        "color12": "#97a6b8",
+        "color13": "#9caab4",
+        "color14": "#a3b0bb",
+        "color15": "#c4c5c6"
+    }
+}

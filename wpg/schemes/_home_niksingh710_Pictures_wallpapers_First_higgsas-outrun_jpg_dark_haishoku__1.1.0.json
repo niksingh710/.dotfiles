@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/higgsas-outrun.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1a151b",
+        "foreground": "#c5c4c6",
+        "cursor": "#c5c4c6"
+    },
+    "colors": {
+        "color0": "#1a151b",
+        "color1": "#082d87",
+        "color2": "#60204b",
+        "color3": "#175ad9",
+        "color4": "#7d5fdb",
+        "color5": "#c766dd",
+        "color6": "#f36c88",
+        "color7": "#c5c4c6",
+        "color8": "#534f54",
+        "color9": "#082d87",
+        "color10": "#60204b",
+        "color11": "#175ad9",
+        "color12": "#7d5fdb",
+        "color13": "#c766dd",
+        "color14": "#f36c88",
+        "color15": "#c5c4c6"
+    }
+}

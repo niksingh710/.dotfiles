@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/rijypjstim8-rucksack-magazine.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1f1f1f",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#1f1f1f",
+        "color1": "#7b6c67",
+        "color2": "#9f9a9a",
+        "color3": "#bdada7",
+        "color4": "#b2b3bb",
+        "color5": "#b6b5bb",
+        "color6": "#c4b9b5",
+        "color7": "#c7c7c7",
+        "color8": "#575757",
+        "color9": "#7b6c67",
+        "color10": "#9f9a9a",
+        "color11": "#bdada7",
+        "color12": "#b2b3bb",
+        "color13": "#b6b5bb",
+        "color14": "#c4b9b5",
+        "color15": "#c7c7c7"
+    }
+}

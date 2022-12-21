@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/muriLLu-Japan-Neo-Wallpaper.png",
+    "alpha": "85",
+    "special": {
+        "background": "#18191b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#18191b",
+        "color1": "#1e4474",
+        "color2": "#693555",
+        "color3": "#1d568d",
+        "color4": "#7a3d77",
+        "color5": "#2a6dc6",
+        "color6": "#746393",
+        "color7": "#c5c5c6",
+        "color8": "#515254",
+        "color9": "#1e4474",
+        "color10": "#693555",
+        "color11": "#1d568d",
+        "color12": "#7a3d77",
+        "color13": "#2a6dc6",
+        "color14": "#746393",
+        "color15": "#c5c5c6"
+    }
+}

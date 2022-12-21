@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/Pixel Art/knight_by_fire.png",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1b1a",
+        "foreground": "#c6c6c5",
+        "cursor": "#c6c6c5"
+    },
+    "colors": {
+        "color0": "#1d1b1a",
+        "color1": "#4f4158",
+        "color2": "#764e36",
+        "color3": "#685e66",
+        "color4": "#876f65",
+        "color5": "#c0792d",
+        "color6": "#898598",
+        "color7": "#c6c6c5",
+        "color8": "#555453",
+        "color9": "#4f4158",
+        "color10": "#764e36",
+        "color11": "#685e66",
+        "color12": "#876f65",
+        "color13": "#c0792d",
+        "color14": "#898598",
+        "color15": "#c6c6c5"
+    }
+}

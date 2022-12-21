@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/EdAGGFS.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0D0708",
+        "foreground": "#ddcdc4",
+        "cursor": "#ddcdc4"
+    },
+    "colors": {
+        "color0": "#0D0708",
+        "color1": "#D09D5A",
+        "color2": "#E7A05E",
+        "color3": "#706F90",
+        "color4": "#89798A",
+        "color5": "#7B85A9",
+        "color6": "#A4969B",
+        "color7": "#ddcdc4",
+        "color8": "#9a8f89",
+        "color9": "#D09D5A",
+        "color10": "#E7A05E",
+        "color11": "#706F90",
+        "color12": "#89798A",
+        "color13": "#7B85A9",
+        "color14": "#A4969B",
+        "color15": "#ddcdc4"
+    }
+}

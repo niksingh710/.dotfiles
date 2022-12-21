@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/kvacm-pinky-purple.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#151516",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151516",
+        "color1": "#3b226e",
+        "color2": "#70338e",
+        "color3": "#742bbd",
+        "color4": "#b615c7",
+        "color5": "#7365bd",
+        "color6": "#b973c1",
+        "color7": "#c4c4c4",
+        "color8": "#4f4f50",
+        "color9": "#3b226e",
+        "color10": "#70338e",
+        "color11": "#742bbd",
+        "color12": "#b615c7",
+        "color13": "#7365bd",
+        "color14": "#b973c1",
+        "color15": "#c4c4c4"
+    }
+}

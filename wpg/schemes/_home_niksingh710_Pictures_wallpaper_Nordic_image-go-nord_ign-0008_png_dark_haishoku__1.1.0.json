@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nordic/image-go-nord/ign-0008.png",
+    "alpha": "83",
+    "special": {
+        "background": "#1b1c1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1b1c1e",
+        "color1": "#53647b",
+        "color2": "#755a63",
+        "color3": "#787771",
+        "color4": "#848b91",
+        "color5": "#cd8671",
+        "color6": "#c4998f",
+        "color7": "#c6c6c6",
+        "color8": "#545456",
+        "color9": "#53647b",
+        "color10": "#755a63",
+        "color11": "#787771",
+        "color12": "#848b91",
+        "color13": "#cd8671",
+        "color14": "#c4998f",
+        "color15": "#c6c6c6"
+    }
+}

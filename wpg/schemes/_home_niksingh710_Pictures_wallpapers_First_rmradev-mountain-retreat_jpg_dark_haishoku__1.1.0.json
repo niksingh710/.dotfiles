@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/rmradev-mountain-retreat.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#17191b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#17191b",
+        "color1": "#406880",
+        "color2": "#727179",
+        "color3": "#6da0c0",
+        "color4": "#8ab4cf",
+        "color5": "#ec987e",
+        "color6": "#fdc3a0",
+        "color7": "#c5c5c6",
+        "color8": "#515254",
+        "color9": "#406880",
+        "color10": "#727179",
+        "color11": "#6da0c0",
+        "color12": "#8ab4cf",
+        "color13": "#ec987e",
+        "color14": "#fdc3a0",
+        "color15": "#c5c5c6"
+    }
+}

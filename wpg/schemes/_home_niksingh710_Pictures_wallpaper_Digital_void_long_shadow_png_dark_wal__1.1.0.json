@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/void_long_shadow.png",
+    "alpha": "93",
+    "special": {
+        "background": "#0d100d",
+        "foreground": "#c9d4ca",
+        "cursor": "#c9d4ca"
+    },
+    "colors": {
+        "color0": "#0d100d",
+        "color1": "#6F7D74",
+        "color2": "#478061",
+        "color3": "#728078",
+        "color4": "#7E8E82",
+        "color5": "#859686",
+        "color6": "#96AA97",
+        "color7": "#c9d4ca",
+        "color8": "#8c948d",
+        "color9": "#6F7D74",
+        "color10": "#478061",
+        "color11": "#728078",
+        "color12": "#7E8E82",
+        "color13": "#859686",
+        "color14": "#96AA97",
+        "color15": "#c9d4ca"
+    }
+}

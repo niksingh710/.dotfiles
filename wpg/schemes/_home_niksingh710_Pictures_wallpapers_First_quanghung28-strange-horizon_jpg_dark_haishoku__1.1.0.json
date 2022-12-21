@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/quanghung28-strange-horizon.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#16191b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#16191b",
+        "color1": "#314570",
+        "color2": "#2e525e",
+        "color3": "#793c55",
+        "color4": "#356678",
+        "color5": "#796a81",
+        "color6": "#818695",
+        "color7": "#c4c5c6",
+        "color8": "#505254",
+        "color9": "#314570",
+        "color10": "#2e525e",
+        "color11": "#793c55",
+        "color12": "#356678",
+        "color13": "#796a81",
+        "color14": "#818695",
+        "color15": "#c4c5c6"
+    }
+}

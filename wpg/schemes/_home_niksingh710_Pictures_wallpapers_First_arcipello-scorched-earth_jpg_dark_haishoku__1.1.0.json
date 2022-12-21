@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/arcipello-scorched-earth.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171719",
+        "color1": "#45415a",
+        "color2": "#713741",
+        "color3": "#67485a",
+        "color4": "#7a6471",
+        "color5": "#c07e70",
+        "color6": "#97909e",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#45415a",
+        "color10": "#713741",
+        "color11": "#67485a",
+        "color12": "#7a6471",
+        "color13": "#c07e70",
+        "color14": "#97909e",
+        "color15": "#c5c5c5"
+    }
+}

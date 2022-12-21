@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Sea Life/jellyfish/the_pacific_sea_nettle_ripleys_aquarium_of_canada_toronto_canada_pathum_danthanarayana.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#201432",
+        "foreground": "#c7c4cb",
+        "cursor": "#c7c4cb"
+    },
+    "colors": {
+        "color0": "#201432",
+        "color1": "#8501fd",
+        "color2": "#9c31a3",
+        "color3": "#a477f4",
+        "color4": "#fb826f",
+        "color5": "#ea83a1",
+        "color6": "#fbc9a8",
+        "color7": "#c7c4cb",
+        "color8": "#574e65",
+        "color9": "#8501fd",
+        "color10": "#9c31a3",
+        "color11": "#a477f4",
+        "color12": "#fb826f",
+        "color13": "#ea83a1",
+        "color14": "#fbc9a8",
+        "color15": "#c7c4cb"
+    }
+}

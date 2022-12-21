@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-sky-mirror.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#15171b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15171b",
+        "color1": "#174487",
+        "color2": "#7e407f",
+        "color3": "#1f71c3",
+        "color4": "#8c87c7",
+        "color5": "#e28193",
+        "color6": "#d18dc7",
+        "color7": "#c4c5c6",
+        "color8": "#4f5154",
+        "color9": "#174487",
+        "color10": "#7e407f",
+        "color11": "#1f71c3",
+        "color12": "#8c87c7",
+        "color13": "#e28193",
+        "color14": "#d18dc7",
+        "color15": "#c4c5c6"
+    }
+}

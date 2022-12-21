@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/borealis.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#280f0a",
+        "foreground": "#c9c3c1",
+        "cursor": "#c9c3c1"
+    },
+    "colors": {
+        "color0": "#280f0a",
+        "color1": "#b15395",
+        "color2": "#e96e3c",
+        "color3": "#cd709d",
+        "color4": "#e7965d",
+        "color5": "#df8f9c",
+        "color6": "#ff8f49",
+        "color7": "#c9c3c1",
+        "color8": "#5d4b47",
+        "color9": "#b15395",
+        "color10": "#e96e3c",
+        "color11": "#cd709d",
+        "color12": "#e7965d",
+        "color13": "#df8f9c",
+        "color14": "#ff8f49",
+        "color15": "#c9c3c1"
+    }
+}

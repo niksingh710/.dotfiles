@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Widescreen/Looking out on a city.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#141617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#141617",
+        "color1": "#164266",
+        "color2": "#306884",
+        "color3": "#3589b6",
+        "color4": "#638693",
+        "color5": "#6b9eb5",
+        "color6": "#88bccc",
+        "color7": "#c4c4c5",
+        "color8": "#4e5051",
+        "color9": "#164266",
+        "color10": "#306884",
+        "color11": "#3589b6",
+        "color12": "#638693",
+        "color13": "#6b9eb5",
+        "color14": "#88bccc",
+        "color15": "#c4c4c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/octo_dracula.png",
+    "alpha": "80",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#51506d",
+        "color2": "#485f5b",
+        "color3": "#644e6c",
+        "color4": "#784b58",
+        "color5": "#54657c",
+        "color6": "#6f5e85",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#51506d",
+        "color10": "#485f5b",
+        "color11": "#644e6c",
+        "color12": "#784b58",
+        "color13": "#54657c",
+        "color14": "#6f5e85",
+        "color15": "#c5c5c6"
+    }
+}

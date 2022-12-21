@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/void_gruvy_dessert.png",
+    "alpha": "93",
+    "special": {
+        "background": "#101112",
+        "foreground": "#b5c9ad",
+        "cursor": "#b5c9ad"
+    },
+    "colors": {
+        "color0": "#101112",
+        "color1": "#665C54",
+        "color2": "#50674E",
+        "color3": "#6F665B",
+        "color4": "#7C6F64",
+        "color5": "#68865D",
+        "color6": "#729565",
+        "color7": "#b5c9ad",
+        "color8": "#7e8c79",
+        "color9": "#665C54",
+        "color10": "#50674E",
+        "color11": "#6F665B",
+        "color12": "#7C6F64",
+        "color13": "#68865D",
+        "color14": "#729565",
+        "color15": "#b5c9ad"
+    }
+}

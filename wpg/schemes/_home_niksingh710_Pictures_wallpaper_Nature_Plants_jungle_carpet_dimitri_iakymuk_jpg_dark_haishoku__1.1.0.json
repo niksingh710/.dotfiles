@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Plants/jungle_carpet_dimitri_iakymuk.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#171918",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171918",
+        "color1": "#553941",
+        "color2": "#364f33",
+        "color3": "#4e6540",
+        "color4": "#596855",
+        "color5": "#5c7947",
+        "color6": "#6b815b",
+        "color7": "#c5c5c5",
+        "color8": "#515251",
+        "color9": "#553941",
+        "color10": "#364f33",
+        "color11": "#4e6540",
+        "color12": "#596855",
+        "color13": "#5c7947",
+        "color14": "#6b815b",
+        "color15": "#c5c5c5"
+    }
+}

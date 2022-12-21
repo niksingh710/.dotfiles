@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-around-us.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#141718",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#141718",
+        "color1": "#013896",
+        "color2": "#1448d2",
+        "color3": "#217ceb",
+        "color4": "#7997d3",
+        "color5": "#84baf0",
+        "color6": "#efcba1",
+        "color7": "#c4c5c5",
+        "color8": "#4e5151",
+        "color9": "#013896",
+        "color10": "#1448d2",
+        "color11": "#217ceb",
+        "color12": "#7997d3",
+        "color13": "#84baf0",
+        "color14": "#efcba1",
+        "color15": "#c4c5c5"
+    }
+}

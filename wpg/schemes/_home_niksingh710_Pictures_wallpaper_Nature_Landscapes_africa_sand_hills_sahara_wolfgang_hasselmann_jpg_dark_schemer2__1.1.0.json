@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Landscapes/africa/sand_hills_sahara_wolfgang_hasselmann.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#24170f",
+        "foreground": "#c8c5c3",
+        "cursor": "#c8c5c3"
+    },
+    "colors": {
+        "color0": "#24170f",
+        "color1": "#ab8970",
+        "color2": "#ab8970",
+        "color3": "#d19267",
+        "color4": "#c4a289",
+        "color5": "#c4a289",
+        "color6": "#d7bc9d",
+        "color7": "#c8c5c3",
+        "color8": "#5a514b",
+        "color9": "#ab8970",
+        "color10": "#ab8970",
+        "color11": "#d19267",
+        "color12": "#c4a289",
+        "color13": "#c4a289",
+        "color14": "#d7bc9d",
+        "color15": "#c8c5c3"
+    }
+}

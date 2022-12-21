@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nordic/operating-system/nixos.png",
+    "alpha": "83",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#455977",
+        "color2": "#4b616e",
+        "color3": "#4a6180",
+        "color4": "#597891",
+        "color5": "#5e81ac",
+        "color6": "#6c93a2",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#455977",
+        "color10": "#4b616e",
+        "color11": "#4a6180",
+        "color12": "#597891",
+        "color13": "#5e81ac",
+        "color14": "#6c93a2",
+        "color15": "#c5c5c6"
+    }
+}

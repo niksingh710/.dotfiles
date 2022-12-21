@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/arco-login-plasma.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#141517",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#141517",
+        "color1": "#01162c",
+        "color2": "#04181f",
+        "color3": "#041d2e",
+        "color4": "#022838",
+        "color5": "#04323d",
+        "color6": "#043852",
+        "color7": "#c4c4c5",
+        "color8": "#4e4f51",
+        "color9": "#01162c",
+        "color10": "#04181f",
+        "color11": "#041d2e",
+        "color12": "#022838",
+        "color13": "#04323d",
+        "color14": "#043852",
+        "color15": "#c4c4c5"
+    }
+}

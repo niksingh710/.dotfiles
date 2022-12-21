@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/operating-system/plan9.png",
+    "alpha": "85",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#696b70",
+        "color2": "#676c76",
+        "color3": "#6c6e72",
+        "color4": "#8d8f94",
+        "color5": "#b0b1b3",
+        "color6": "#b3b5b7",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#696b70",
+        "color10": "#676c76",
+        "color11": "#6c6e72",
+        "color12": "#8d8f94",
+        "color13": "#b0b1b3",
+        "color14": "#b3b5b7",
+        "color15": "#c5c5c6"
+    }
+}

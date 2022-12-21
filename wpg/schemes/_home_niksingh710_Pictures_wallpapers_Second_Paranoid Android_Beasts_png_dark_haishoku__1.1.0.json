@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paranoid Android/Beasts.png",
+    "alpha": "85",
+    "special": {
+        "background": "#17171b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#17171b",
+        "color1": "#2d4a66",
+        "color2": "#e54a1f",
+        "color3": "#837a76",
+        "color4": "#ef7e36",
+        "color5": "#da9a7d",
+        "color6": "#f6c298",
+        "color7": "#c5c5c6",
+        "color8": "#515154",
+        "color9": "#2d4a66",
+        "color10": "#e54a1f",
+        "color11": "#837a76",
+        "color12": "#ef7e36",
+        "color13": "#da9a7d",
+        "color14": "#f6c298",
+        "color15": "#c5c5c6"
+    }
+}

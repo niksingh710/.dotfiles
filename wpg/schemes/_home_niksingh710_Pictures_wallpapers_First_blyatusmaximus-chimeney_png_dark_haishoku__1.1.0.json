@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/blyatusmaximus-chimeney.png",
+    "alpha": "85",
+    "special": {
+        "background": "#15191c",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15191c",
+        "color1": "#273e72",
+        "color2": "#29788d",
+        "color3": "#6b649d",
+        "color4": "#8874b1",
+        "color5": "#c08ac4",
+        "color6": "#8ebfca",
+        "color7": "#c4c5c6",
+        "color8": "#4f5254",
+        "color9": "#273e72",
+        "color10": "#29788d",
+        "color11": "#6b649d",
+        "color12": "#8874b1",
+        "color13": "#c08ac4",
+        "color14": "#8ebfca",
+        "color15": "#c4c5c6"
+    }
+}

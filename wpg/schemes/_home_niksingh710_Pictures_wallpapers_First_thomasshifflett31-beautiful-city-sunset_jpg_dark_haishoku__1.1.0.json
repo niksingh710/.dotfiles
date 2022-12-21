@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/thomasshifflett31-beautiful-city-sunset.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191619",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#191619",
+        "color1": "#4f214f",
+        "color2": "#742a57",
+        "color3": "#82397d",
+        "color4": "#d04987",
+        "color5": "#9d6692",
+        "color6": "#ed798a",
+        "color7": "#c5c4c5",
+        "color8": "#525052",
+        "color9": "#4f214f",
+        "color10": "#742a57",
+        "color11": "#82397d",
+        "color12": "#d04987",
+        "color13": "#9d6692",
+        "color14": "#ed798a",
+        "color15": "#c5c4c5"
+    }
+}

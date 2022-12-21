@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Landscapes/united_states/matador_rocks.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#19181a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19181a",
+        "color1": "#453860",
+        "color2": "#584577",
+        "color3": "#4f4d8d",
+        "color4": "#665a8f",
+        "color5": "#7d77ae",
+        "color6": "#9d93c3",
+        "color7": "#c5c5c5",
+        "color8": "#525153",
+        "color9": "#453860",
+        "color10": "#584577",
+        "color11": "#4f4d8d",
+        "color12": "#665a8f",
+        "color13": "#7d77ae",
+        "color14": "#9d93c3",
+        "color15": "#c5c5c5"
+    }
+}

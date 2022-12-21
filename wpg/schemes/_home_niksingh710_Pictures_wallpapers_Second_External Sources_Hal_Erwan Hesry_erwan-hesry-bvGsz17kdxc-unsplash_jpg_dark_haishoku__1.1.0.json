@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/Erwan Hesry/erwan-hesry-bvGsz17kdxc-unsplash.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181717",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181717",
+        "color1": "#62502b",
+        "color2": "#806b35",
+        "color3": "#8d7e5b",
+        "color4": "#b19428",
+        "color5": "#b29d6b",
+        "color6": "#d2c180",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#62502b",
+        "color10": "#806b35",
+        "color11": "#8d7e5b",
+        "color12": "#b19428",
+        "color13": "#b29d6b",
+        "color14": "#d2c180",
+        "color15": "#c5c5c5"
+    }
+}

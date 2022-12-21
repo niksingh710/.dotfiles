@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/iceland/bridge_pjoavegur_michelle_spollen.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181b1c",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#181b1c",
+        "color1": "#2e4f64",
+        "color2": "#406776",
+        "color3": "#706945",
+        "color4": "#668390",
+        "color5": "#7a909b",
+        "color6": "#8599a0",
+        "color7": "#c5c6c6",
+        "color8": "#515454",
+        "color9": "#2e4f64",
+        "color10": "#406776",
+        "color11": "#706945",
+        "color12": "#668390",
+        "color13": "#7a909b",
+        "color14": "#8599a0",
+        "color15": "#c5c6c6"
+    }
+}

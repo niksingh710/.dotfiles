@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/mklgustafsson-among-trees-deer.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#0A1032",
+        "foreground": "#ebc4c2",
+        "cursor": "#ebc4c2"
+    },
+    "colors": {
+        "color0": "#0A1032",
+        "color1": "#483890",
+        "color2": "#2A5B9E",
+        "color3": "#515AA2",
+        "color4": "#B16C8F",
+        "color5": "#4F9DC9",
+        "color6": "#41A0C6",
+        "color7": "#ebc4c2",
+        "color8": "#a48987",
+        "color9": "#483890",
+        "color10": "#2A5B9E",
+        "color11": "#515AA2",
+        "color12": "#B16C8F",
+        "color13": "#4F9DC9",
+        "color14": "#41A0C6",
+        "color15": "#ebc4c2"
+    }
+}

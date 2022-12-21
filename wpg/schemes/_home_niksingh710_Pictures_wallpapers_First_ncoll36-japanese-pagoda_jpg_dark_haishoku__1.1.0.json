@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/ncoll36-japanese-pagoda.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1618",
+        "foreground": "#c6c4c5",
+        "cursor": "#c6c4c5"
+    },
+    "colors": {
+        "color0": "#1d1618",
+        "color1": "#8c2843",
+        "color2": "#af3353",
+        "color3": "#b93557",
+        "color4": "#a04a61",
+        "color5": "#c94769",
+        "color6": "#d35e7e",
+        "color7": "#c6c4c5",
+        "color8": "#555051",
+        "color9": "#8c2843",
+        "color10": "#af3353",
+        "color11": "#b93557",
+        "color12": "#a04a61",
+        "color13": "#c94769",
+        "color14": "#d35e7e",
+        "color15": "#c6c4c5"
+    }
+}

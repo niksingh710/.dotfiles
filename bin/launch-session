@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+[ -f "$HOME"/.config/sys/all ] && . "$HOME"/.config/sys/all
+
+hash Hyprland 2>/dev/null && {
+  cd ~
+  Hyprland 
+  exit 0
+} || echo "what to launch??"

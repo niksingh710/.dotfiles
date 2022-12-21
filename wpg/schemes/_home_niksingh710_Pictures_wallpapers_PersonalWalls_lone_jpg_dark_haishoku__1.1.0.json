@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/lone.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161819",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161819",
+        "color1": "#274c5e",
+        "color2": "#6c3d45",
+        "color3": "#3b7082",
+        "color4": "#7c7981",
+        "color5": "#639ca9",
+        "color6": "#cc847e",
+        "color7": "#c4c5c5",
+        "color8": "#505152",
+        "color9": "#274c5e",
+        "color10": "#6c3d45",
+        "color11": "#3b7082",
+        "color12": "#7c7981",
+        "color13": "#639ca9",
+        "color14": "#cc847e",
+        "color15": "#c4c5c5"
+    }
+}

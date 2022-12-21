@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/heavy_elavator_calder_moore.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#1e1a1c",
+        "foreground": "#c6c5c6",
+        "cursor": "#c6c5c6"
+    },
+    "colors": {
+        "color0": "#1e1a1c",
+        "color1": "#833a3c",
+        "color2": "#655c5b",
+        "color3": "#69666f",
+        "color4": "#8f6d56",
+        "color5": "#998973",
+        "color6": "#d07c43",
+        "color7": "#c6c5c6",
+        "color8": "#565354",
+        "color9": "#833a3c",
+        "color10": "#655c5b",
+        "color11": "#69666f",
+        "color12": "#8f6d56",
+        "color13": "#998973",
+        "color14": "#d07c43",
+        "color15": "#c6c5c6"
+    }
+}

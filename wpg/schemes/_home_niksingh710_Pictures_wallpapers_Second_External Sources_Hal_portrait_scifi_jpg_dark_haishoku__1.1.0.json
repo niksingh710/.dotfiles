@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/scifi.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#151514",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151514",
+        "color1": "#6b3c35",
+        "color2": "#484f59",
+        "color3": "#6e5c4f",
+        "color4": "#7d797a",
+        "color5": "#ce8582",
+        "color6": "#87a3c7",
+        "color7": "#c4c4c4",
+        "color8": "#4f4f4e",
+        "color9": "#6b3c35",
+        "color10": "#484f59",
+        "color11": "#6e5c4f",
+        "color12": "#7d797a",
+        "color13": "#ce8582",
+        "color14": "#87a3c7",
+        "color15": "#c4c4c4"
+    }
+}

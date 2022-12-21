@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Simplistic/astronaut-star-war-4k-q7.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#18161c",
+        "foreground": "#c5c4c6",
+        "cursor": "#c5c4c6"
+    },
+    "colors": {
+        "color0": "#18161c",
+        "color1": "#42347b",
+        "color2": "#763987",
+        "color3": "#7761aa",
+        "color4": "#b54699",
+        "color5": "#7e7abc",
+        "color6": "#1edfd5",
+        "color7": "#c5c4c6",
+        "color8": "#515054",
+        "color9": "#42347b",
+        "color10": "#763987",
+        "color11": "#7761aa",
+        "color12": "#b54699",
+        "color13": "#7e7abc",
+        "color14": "#1edfd5",
+        "color15": "#c5c4c6"
+    }
+}

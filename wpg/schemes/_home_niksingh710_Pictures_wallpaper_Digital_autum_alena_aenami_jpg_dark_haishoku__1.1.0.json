@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/autum_alena_aenami.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#19191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19191a",
+        "color1": "#4b4c5b",
+        "color2": "#77545f",
+        "color3": "#497d91",
+        "color4": "#867075",
+        "color5": "#6f848e",
+        "color6": "#da8677",
+        "color7": "#c5c5c5",
+        "color8": "#525253",
+        "color9": "#4b4c5b",
+        "color10": "#77545f",
+        "color11": "#497d91",
+        "color12": "#867075",
+        "color13": "#6f848e",
+        "color14": "#da8677",
+        "color15": "#c5c5c5"
+    }
+}

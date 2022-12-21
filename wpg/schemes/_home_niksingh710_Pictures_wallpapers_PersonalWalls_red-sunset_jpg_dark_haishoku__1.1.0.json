@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/red-sunset.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#161516",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#161516",
+        "color1": "#601926",
+        "color2": "#9c232c",
+        "color3": "#a23844",
+        "color4": "#845253",
+        "color5": "#a96467",
+        "color6": "#ba7c80",
+        "color7": "#c4c4c4",
+        "color8": "#504f50",
+        "color9": "#601926",
+        "color10": "#9c232c",
+        "color11": "#a23844",
+        "color12": "#845253",
+        "color13": "#a96467",
+        "color14": "#ba7c80",
+        "color15": "#c4c4c4"
+    }
+}

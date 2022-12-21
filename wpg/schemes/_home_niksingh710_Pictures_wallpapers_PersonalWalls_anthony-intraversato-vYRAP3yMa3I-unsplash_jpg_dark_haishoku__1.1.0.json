@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/anthony-intraversato-vYRAP3yMa3I-unsplash.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161817",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161817",
+        "color1": "#7f3335",
+        "color2": "#d2454a",
+        "color3": "#e67052",
+        "color4": "#fa8b83",
+        "color5": "#fda7b0",
+        "color6": "#fdb48e",
+        "color7": "#c4c5c5",
+        "color8": "#505151",
+        "color9": "#7f3335",
+        "color10": "#d2454a",
+        "color11": "#e67052",
+        "color12": "#fa8b83",
+        "color13": "#fda7b0",
+        "color14": "#fdb48e",
+        "color15": "#c4c5c5"
+    }
+}

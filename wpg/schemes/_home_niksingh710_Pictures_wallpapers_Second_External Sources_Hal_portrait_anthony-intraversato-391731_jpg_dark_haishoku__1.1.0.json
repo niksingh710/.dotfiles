@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/anthony-intraversato-391731.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191918",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#485960",
+        "color2": "#7b5233",
+        "color3": "#5a6e78",
+        "color4": "#83888a",
+        "color5": "#96a8b1",
+        "color6": "#a7b9c2",
+        "color7": "#c5c5c5",
+        "color8": "#525251",
+        "color9": "#485960",
+        "color10": "#7b5233",
+        "color11": "#5a6e78",
+        "color12": "#83888a",
+        "color13": "#96a8b1",
+        "color14": "#a7b9c2",
+        "color15": "#c5c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/gruvbox_sunset_mountain.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#181819",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181819",
+        "color1": "#42434a",
+        "color2": "#5b473d",
+        "color3": "#635042",
+        "color4": "#84654d",
+        "color5": "#ac815e",
+        "color6": "#bb8f67",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#42434a",
+        "color10": "#5b473d",
+        "color11": "#635042",
+        "color12": "#84654d",
+        "color13": "#ac815e",
+        "color14": "#bb8f67",
+        "color15": "#c5c5c5"
+    }
+}

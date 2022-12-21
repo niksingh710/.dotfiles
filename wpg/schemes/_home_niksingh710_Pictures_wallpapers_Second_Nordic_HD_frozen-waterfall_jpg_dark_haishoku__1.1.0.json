@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/HD/frozen-waterfall.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191b1c",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#191b1c",
+        "color1": "#315361",
+        "color2": "#47626d",
+        "color3": "#6d7a81",
+        "color4": "#7b8a93",
+        "color5": "#8a8d91",
+        "color6": "#8b9197",
+        "color7": "#c5c6c6",
+        "color8": "#525454",
+        "color9": "#315361",
+        "color10": "#47626d",
+        "color11": "#6d7a81",
+        "color12": "#7b8a93",
+        "color13": "#8a8d91",
+        "color14": "#8b9197",
+        "color15": "#c5c6c6"
+    }
+}

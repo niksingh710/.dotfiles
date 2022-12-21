@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/daniel-von-appen-315757.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1d1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1d1d1e",
+        "color1": "#6a696b",
+        "color2": "#77796e",
+        "color3": "#909492",
+        "color4": "#a4a8a2",
+        "color5": "#a2abaa",
+        "color6": "#a8aea9",
+        "color7": "#c6c6c6",
+        "color8": "#555556",
+        "color9": "#6a696b",
+        "color10": "#77796e",
+        "color11": "#909492",
+        "color12": "#a4a8a2",
+        "color13": "#a2abaa",
+        "color14": "#a8aea9",
+        "color15": "#c6c6c6"
+    }
+}

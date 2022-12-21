@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/Lovelace-hearts.png",
+    "alpha": "80",
+    "special": {
+        "background": "#191f28",
+        "foreground": "#b8efe5",
+        "cursor": "#b8efe5"
+    },
+    "colors": {
+        "color0": "#191f28",
+        "color1": "#B477D8",
+        "color2": "#589693",
+        "color3": "#76D6C8",
+        "color4": "#F0839C",
+        "color5": "#FD88A2",
+        "color6": "#D788FD",
+        "color7": "#b8efe5",
+        "color8": "#80a7a0",
+        "color9": "#B477D8",
+        "color10": "#589693",
+        "color11": "#76D6C8",
+        "color12": "#F0839C",
+        "color13": "#FD88A2",
+        "color14": "#D788FD",
+        "color15": "#b8efe5"
+    }
+}

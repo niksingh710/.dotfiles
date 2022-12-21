@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/HD/Quantum Space.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#240d13",
+        "foreground": "#c8c2c4",
+        "cursor": "#c8c2c4"
+    },
+    "colors": {
+        "color0": "#240d13",
+        "color1": "#2486b0",
+        "color2": "#a35990",
+        "color3": "#e34568",
+        "color4": "#4890ac",
+        "color5": "#a2a5ce",
+        "color6": "#81c0f0",
+        "color7": "#c8c2c4",
+        "color8": "#5a494e",
+        "color9": "#2486b0",
+        "color10": "#a35990",
+        "color11": "#e34568",
+        "color12": "#4890ac",
+        "color13": "#a2a5ce",
+        "color14": "#81c0f0",
+        "color15": "#c8c2c4"
+    }
+}

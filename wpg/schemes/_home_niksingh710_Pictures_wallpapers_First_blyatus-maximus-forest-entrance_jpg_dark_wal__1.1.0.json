@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/blyatus-maximus-forest-entrance.jpg",
+    "alpha": "65",
+    "special": {
+        "background": "#091205",
+        "foreground": "#d4d7bb",
+        "cursor": "#d4d7bb"
+    },
+    "colors": {
+        "color0": "#091205",
+        "color1": "#6C8C24",
+        "color2": "#788748",
+        "color3": "#93A732",
+        "color4": "#A5B44B",
+        "color5": "#BAC354",
+        "color6": "#D3D567",
+        "color7": "#d4d7bb",
+        "color8": "#949682",
+        "color9": "#6C8C24",
+        "color10": "#788748",
+        "color11": "#93A732",
+        "color12": "#A5B44B",
+        "color13": "#BAC354",
+        "color14": "#D3D567",
+        "color15": "#d4d7bb"
+    }
+}

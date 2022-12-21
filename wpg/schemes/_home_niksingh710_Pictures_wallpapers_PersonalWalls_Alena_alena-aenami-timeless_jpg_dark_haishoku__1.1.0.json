@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/Alena/alena-aenami-timeless.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161616",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#161616",
+        "color1": "#3a4d5c",
+        "color2": "#3d5b6b",
+        "color3": "#754c51",
+        "color4": "#81706a",
+        "color5": "#d37856",
+        "color6": "#edbf71",
+        "color7": "#c4c4c4",
+        "color8": "#505050",
+        "color9": "#3a4d5c",
+        "color10": "#3d5b6b",
+        "color11": "#754c51",
+        "color12": "#81706a",
+        "color13": "#d37856",
+        "color14": "#edbf71",
+        "color15": "#c4c4c4"
+    }
+}

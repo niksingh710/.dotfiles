@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/The Jellyfish.png",
+    "alpha": "85",
+    "special": {
+        "background": "#161617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#3a3849",
+        "color2": "#6d2d29",
+        "color3": "#763155",
+        "color4": "#2b7b58",
+        "color5": "#76721f",
+        "color6": "#6e7161",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#3a3849",
+        "color10": "#6d2d29",
+        "color11": "#763155",
+        "color12": "#2b7b58",
+        "color13": "#76721f",
+        "color14": "#6e7161",
+        "color15": "#c4c4c5"
+    }
+}

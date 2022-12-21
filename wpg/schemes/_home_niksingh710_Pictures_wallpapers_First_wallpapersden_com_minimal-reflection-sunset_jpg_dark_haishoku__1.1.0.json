@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/wallpapersden.com_minimal-reflection-sunset.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#1d191f",
+        "foreground": "#c6c5c7",
+        "cursor": "#c6c5c7"
+    },
+    "colors": {
+        "color0": "#1d191f",
+        "color1": "#664687",
+        "color2": "#884464",
+        "color3": "#854a7a",
+        "color4": "#9a5172",
+        "color5": "#ac5660",
+        "color6": "#ce5e54",
+        "color7": "#c6c5c7",
+        "color8": "#555257",
+        "color9": "#664687",
+        "color10": "#884464",
+        "color11": "#854a7a",
+        "color12": "#9a5172",
+        "color13": "#ac5660",
+        "color14": "#ce5e54",
+        "color15": "#c6c5c7"
+    }
+}

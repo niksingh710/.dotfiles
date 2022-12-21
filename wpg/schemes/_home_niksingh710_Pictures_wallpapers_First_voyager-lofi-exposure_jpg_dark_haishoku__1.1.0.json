@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/voyager-lofi-exposure.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#17181c",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#17181c",
+        "color1": "#394a68",
+        "color2": "#446979",
+        "color3": "#688d98",
+        "color4": "#799bc1",
+        "color5": "#86b3aa",
+        "color6": "#93bfcc",
+        "color7": "#c5c5c6",
+        "color8": "#515154",
+        "color9": "#394a68",
+        "color10": "#446979",
+        "color11": "#688d98",
+        "color12": "#799bc1",
+        "color13": "#86b3aa",
+        "color14": "#93bfcc",
+        "color15": "#c5c5c6"
+    }
+}

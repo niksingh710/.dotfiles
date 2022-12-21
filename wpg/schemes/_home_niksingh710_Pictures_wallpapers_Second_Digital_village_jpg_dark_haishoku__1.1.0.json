@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Digital/village.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171a18",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171a18",
+        "color1": "#2c6543",
+        "color2": "#6e483a",
+        "color3": "#347f66",
+        "color4": "#786645",
+        "color5": "#82846e",
+        "color6": "#7cb789",
+        "color7": "#c5c5c5",
+        "color8": "#515351",
+        "color9": "#2c6543",
+        "color10": "#6e483a",
+        "color11": "#347f66",
+        "color12": "#786645",
+        "color13": "#82846e",
+        "color14": "#7cb789",
+        "color15": "#c5c5c5"
+    }
+}

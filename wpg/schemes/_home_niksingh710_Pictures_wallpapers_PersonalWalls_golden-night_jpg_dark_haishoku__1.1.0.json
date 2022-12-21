@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/golden-night.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171819",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171819",
+        "color1": "#313a4d",
+        "color2": "#5e4334",
+        "color3": "#4b5060",
+        "color4": "#76563c",
+        "color5": "#6c615a",
+        "color6": "#6f687e",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#313a4d",
+        "color10": "#5e4334",
+        "color11": "#4b5060",
+        "color12": "#76563c",
+        "color13": "#6c615a",
+        "color14": "#6f687e",
+        "color15": "#c5c5c5"
+    }
+}

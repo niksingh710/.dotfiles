@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/pink_flowers_hanwell_cemetery_chapel_london_united_kingdom_edward_howell.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#2a2725",
+        "foreground": "#e8e3e0",
+        "cursor": "#e8e3e0"
+    },
+    "colors": {
+        "color0": "#2a2725",
+        "color1": "#C17A83",
+        "color2": "#B19991",
+        "color3": "#D7A3A3",
+        "color4": "#D0B1AE",
+        "color5": "#D6C4BA",
+        "color6": "#E7D3CF",
+        "color7": "#e8e3e0",
+        "color8": "#a29e9c",
+        "color9": "#C17A83",
+        "color10": "#B19991",
+        "color11": "#D7A3A3",
+        "color12": "#D0B1AE",
+        "color13": "#D6C4BA",
+        "color14": "#E7D3CF",
+        "color15": "#e8e3e0"
+    }
+}

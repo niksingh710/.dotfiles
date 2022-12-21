@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/mofghfgfgh-ocean-sunset.png",
+    "alpha": "85",
+    "special": {
+        "background": "#15181b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15181b",
+        "color1": "#0b3769",
+        "color2": "#254c83",
+        "color3": "#6d5084",
+        "color4": "#b54f7e",
+        "color5": "#746ea5",
+        "color6": "#897bb2",
+        "color7": "#c4c5c6",
+        "color8": "#4f5154",
+        "color9": "#0b3769",
+        "color10": "#254c83",
+        "color11": "#6d5084",
+        "color12": "#b54f7e",
+        "color13": "#746ea5",
+        "color14": "#897bb2",
+        "color15": "#c4c5c6"
+    }
+}

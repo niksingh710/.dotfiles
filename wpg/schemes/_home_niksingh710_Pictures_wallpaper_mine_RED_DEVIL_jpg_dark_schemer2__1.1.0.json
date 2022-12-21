@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/RED_DEVIL.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#290204",
+        "foreground": "#c9bfc0",
+        "cursor": "#c9bfc0"
+    },
+    "colors": {
+        "color0": "#290204",
+        "color1": "#ce0d18",
+        "color2": "#ce0d18",
+        "color3": "#ce0d18",
+        "color4": "#ce0d18",
+        "color5": "#ce0d18",
+        "color6": "#ce0d18",
+        "color7": "#c9bfc0",
+        "color8": "#5e4142",
+        "color9": "#ce0d18",
+        "color10": "#ce0d18",
+        "color11": "#ce0d18",
+        "color12": "#ce0d18",
+        "color13": "#ce0d18",
+        "color14": "#ce0d18",
+        "color15": "#c9bfc0"
+    }
+}

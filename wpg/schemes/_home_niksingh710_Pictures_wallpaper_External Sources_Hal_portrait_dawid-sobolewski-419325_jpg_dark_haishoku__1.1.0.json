@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/dawid-sobolewski-419325.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#171919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171919",
+        "color1": "#604a38",
+        "color2": "#4b5b5d",
+        "color3": "#6e5f49",
+        "color4": "#847d73",
+        "color5": "#ada18d",
+        "color6": "#bbb39f",
+        "color7": "#c5c5c5",
+        "color8": "#515252",
+        "color9": "#604a38",
+        "color10": "#4b5b5d",
+        "color11": "#6e5f49",
+        "color12": "#847d73",
+        "color13": "#ada18d",
+        "color14": "#bbb39f",
+        "color15": "#c5c5c5"
+    }
+}

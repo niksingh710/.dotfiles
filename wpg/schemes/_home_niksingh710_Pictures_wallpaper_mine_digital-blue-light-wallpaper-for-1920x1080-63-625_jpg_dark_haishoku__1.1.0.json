@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/digital-blue-light-wallpaper-for-1920x1080-63-625.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#141518",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#141518",
+        "color1": "#13257e",
+        "color2": "#293abb",
+        "color3": "#793580",
+        "color4": "#1d6dd0",
+        "color5": "#7f66d4",
+        "color6": "#c66dc4",
+        "color7": "#c4c4c5",
+        "color8": "#4e4f51",
+        "color9": "#13257e",
+        "color10": "#293abb",
+        "color11": "#793580",
+        "color12": "#1d6dd0",
+        "color13": "#7f66d4",
+        "color14": "#c66dc4",
+        "color15": "#c4c4c5"
+    }
+}

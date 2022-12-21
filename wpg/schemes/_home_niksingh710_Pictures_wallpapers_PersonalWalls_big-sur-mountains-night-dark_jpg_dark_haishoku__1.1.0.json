@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/big-sur-mountains-night-dark.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#151618",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#151618",
+        "color1": "#172d4d",
+        "color2": "#2e3c3d",
+        "color3": "#224062",
+        "color4": "#2f4e71",
+        "color5": "#3c6185",
+        "color6": "#497393",
+        "color7": "#c4c4c5",
+        "color8": "#4f5051",
+        "color9": "#172d4d",
+        "color10": "#2e3c3d",
+        "color11": "#224062",
+        "color12": "#2f4e71",
+        "color13": "#3c6185",
+        "color14": "#497393",
+        "color15": "#c4c4c5"
+    }
+}

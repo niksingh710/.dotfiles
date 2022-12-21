@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/Simplistic/BirdNord.png",
+    "alpha": "85",
+    "special": {
+        "background": "#19191b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#19191b",
+        "color1": "#3c4750",
+        "color2": "#434850",
+        "color3": "#3e4a53",
+        "color4": "#4b535b",
+        "color5": "#5d646b",
+        "color6": "#5d686f",
+        "color7": "#c5c5c6",
+        "color8": "#525254",
+        "color9": "#3c4750",
+        "color10": "#434850",
+        "color11": "#3e4a53",
+        "color12": "#4b535b",
+        "color13": "#5d646b",
+        "color14": "#5d686f",
+        "color15": "#c5c5c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/Neon city.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#161719",
+        "foreground": "#c4c5c5",
+        "cursor": "#c4c5c5"
+    },
+    "colors": {
+        "color0": "#161719",
+        "color1": "#2e406d",
+        "color2": "#713c70",
+        "color3": "#355f95",
+        "color4": "#ca4279",
+        "color5": "#3f7cc8",
+        "color6": "#658cd2",
+        "color7": "#c4c5c5",
+        "color8": "#505152",
+        "color9": "#2e406d",
+        "color10": "#713c70",
+        "color11": "#355f95",
+        "color12": "#ca4279",
+        "color13": "#3f7cc8",
+        "color14": "#658cd2",
+        "color15": "#c4c5c5"
+    }
+}

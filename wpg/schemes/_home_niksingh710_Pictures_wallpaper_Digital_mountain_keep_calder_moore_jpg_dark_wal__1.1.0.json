@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Digital/mountain_keep_calder_moore.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#0d100f",
+        "foreground": "#c5d5da",
+        "cursor": "#c5d5da"
+    },
+    "colors": {
+        "color0": "#0d100f",
+        "color1": "#3C5D63",
+        "color2": "#475958",
+        "color3": "#4B6C71",
+        "color4": "#597C81",
+        "color5": "#7399A1",
+        "color6": "#87ACB6",
+        "color7": "#c5d5da",
+        "color8": "#899598",
+        "color9": "#3C5D63",
+        "color10": "#475958",
+        "color11": "#4B6C71",
+        "color12": "#597C81",
+        "color13": "#7399A1",
+        "color14": "#87ACB6",
+        "color15": "#c5d5da"
+    }
+}

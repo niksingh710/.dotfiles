@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Widescreen/Aurora.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#030C19",
+        "foreground": "#79cbdc",
+        "cursor": "#79cbdc"
+    },
+    "colors": {
+        "color0": "#030C19",
+        "color1": "#065261",
+        "color2": "#088758",
+        "color3": "#043794",
+        "color4": "#0554A2",
+        "color5": "#0A44BF",
+        "color6": "#0562D6",
+        "color7": "#79cbdc",
+        "color8": "#548e9a",
+        "color9": "#065261",
+        "color10": "#088758",
+        "color11": "#043794",
+        "color12": "#0554A2",
+        "color13": "#0A44BF",
+        "color14": "#0562D6",
+        "color15": "#79cbdc"
+    }
+}

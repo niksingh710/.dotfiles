@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Downloads/temp/PersonalWalls/skull.png",
+    "alpha": "93",
+    "special": {
+        "background": "#171718",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#333338",
+        "color2": "#2e3965",
+        "color3": "#3f4043",
+        "color4": "#50396e",
+        "color5": "#4a4b4d",
+        "color6": "#555658",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#333338",
+        "color10": "#2e3965",
+        "color11": "#3f4043",
+        "color12": "#50396e",
+        "color13": "#4a4b4d",
+        "color14": "#555658",
+        "color15": "#c5c5c5"
+    }
+}

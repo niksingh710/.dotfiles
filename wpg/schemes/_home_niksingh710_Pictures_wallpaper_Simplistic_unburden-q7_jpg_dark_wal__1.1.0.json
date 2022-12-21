@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/unburden-q7.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#0D0F1C",
+        "foreground": "#e6caf4",
+        "cursor": "#e6caf4"
+    },
+    "colors": {
+        "color0": "#0D0F1C",
+        "color1": "#6C6FDD",
+        "color2": "#846CAE",
+        "color3": "#8A7BF4",
+        "color4": "#268FF7",
+        "color5": "#5CA1F9",
+        "color6": "#9A96F9",
+        "color7": "#e6caf4",
+        "color8": "#a18daa",
+        "color9": "#6C6FDD",
+        "color10": "#846CAE",
+        "color11": "#8A7BF4",
+        "color12": "#268FF7",
+        "color13": "#5CA1F9",
+        "color14": "#9A96F9",
+        "color15": "#e6caf4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/PersonalWalls/eyptcat.jpg",
+    "alpha": "90",
+    "special": {
+        "background": "#171819",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171819",
+        "color1": "#7b4540",
+        "color2": "#4e6a73",
+        "color3": "#886651",
+        "color4": "#807c6e",
+        "color5": "#bf6f53",
+        "color6": "#54a5b1",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#7b4540",
+        "color10": "#4e6a73",
+        "color11": "#886651",
+        "color12": "#807c6e",
+        "color13": "#bf6f53",
+        "color14": "#54a5b1",
+        "color15": "#c5c5c5"
+    }
+}

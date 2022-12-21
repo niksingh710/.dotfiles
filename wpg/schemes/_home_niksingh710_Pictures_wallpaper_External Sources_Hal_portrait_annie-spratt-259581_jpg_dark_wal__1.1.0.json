@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/External Sources/Hal/portrait/annie-spratt-259581.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#0b0a08",
+        "foreground": "#e3e5e7",
+        "cursor": "#e3e5e7"
+    },
+    "colors": {
+        "color0": "#0b0a08",
+        "color1": "#686659",
+        "color2": "#994C1B",
+        "color3": "#82877F",
+        "color4": "#9FA29C",
+        "color5": "#BCCAD9",
+        "color6": "#D1DBE5",
+        "color7": "#e3e5e7",
+        "color8": "#9ea0a1",
+        "color9": "#686659",
+        "color10": "#994C1B",
+        "color11": "#82877F",
+        "color12": "#9FA29C",
+        "color13": "#BCCAD9",
+        "color14": "#D1DBE5",
+        "color15": "#e3e5e7"
+    }
+}

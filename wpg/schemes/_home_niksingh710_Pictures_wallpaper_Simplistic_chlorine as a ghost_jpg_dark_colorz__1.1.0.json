@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/chlorine as a ghost.jpg",
+    "alpha": "93",
+    "special": {
+        "background": "#102719",
+        "foreground": "#c3c9c5",
+        "cursor": "#c3c9c5"
+    },
+    "colors": {
+        "color0": "#102719",
+        "color1": "#51c77e",
+        "color2": "#47aa7b",
+        "color3": "#62c798",
+        "color4": "#46a0a1",
+        "color5": "#2e5faa",
+        "color6": "#1a29aa",
+        "color7": "#c3c9c5",
+        "color8": "#4b5d52",
+        "color9": "#51c77e",
+        "color10": "#47aa7b",
+        "color11": "#62c798",
+        "color12": "#46a0a1",
+        "color13": "#2e5faa",
+        "color14": "#1a29aa",
+        "color15": "#c3c9c5"
+    }
+}

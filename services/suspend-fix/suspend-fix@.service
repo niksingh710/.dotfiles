@@ -1,0 +1,9 @@
+[Unit]
+Description=Disable devices those are interupting suspend by wakingup the system.
+
+[Service]
+ExecStart=/home/%i/.setup/services/suspend-fix/suspend-fix
+Type=oneshot
+
+[Install]
+WantedBy=default.target

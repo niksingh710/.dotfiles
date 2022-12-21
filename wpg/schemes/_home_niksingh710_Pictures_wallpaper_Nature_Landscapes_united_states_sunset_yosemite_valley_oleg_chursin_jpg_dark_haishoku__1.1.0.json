@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nature/Landscapes/united_states/sunset_yosemite_valley_oleg_chursin.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#191818",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191818",
+        "color1": "#34354d",
+        "color2": "#434461",
+        "color3": "#79515e",
+        "color4": "#7e6998",
+        "color5": "#c07278",
+        "color6": "#9c84b0",
+        "color7": "#c5c5c5",
+        "color8": "#525151",
+        "color9": "#34354d",
+        "color10": "#434461",
+        "color11": "#79515e",
+        "color12": "#7e6998",
+        "color13": "#c07278",
+        "color14": "#9c84b0",
+        "color15": "#c5c5c5"
+    }
+}

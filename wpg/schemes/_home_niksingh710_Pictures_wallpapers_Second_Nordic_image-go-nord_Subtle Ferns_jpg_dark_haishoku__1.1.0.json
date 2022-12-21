@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nordic/image-go-nord/Subtle Ferns.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1d1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1d1d1e",
+        "color1": "#6c6d73",
+        "color2": "#6b6f75",
+        "color3": "#6d6f74",
+        "color4": "#87898d",
+        "color5": "#9f9fa2",
+        "color6": "#a0a1a3",
+        "color7": "#c6c6c6",
+        "color8": "#555556",
+        "color9": "#6c6d73",
+        "color10": "#6b6f75",
+        "color11": "#6d6f74",
+        "color12": "#87898d",
+        "color13": "#9f9fa2",
+        "color14": "#a0a1a3",
+        "color15": "#c6c6c6"
+    }
+}

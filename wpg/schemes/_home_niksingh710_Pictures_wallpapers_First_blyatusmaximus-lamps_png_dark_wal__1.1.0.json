@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/blyatusmaximus-lamps.png",
+    "alpha": "85",
+    "special": {
+        "background": "#0b0703",
+        "foreground": "#f6d483",
+        "cursor": "#f6d483"
+    },
+    "colors": {
+        "color0": "#0b0703",
+        "color1": "#E3530E",
+        "color2": "#EE710A",
+        "color3": "#F89109",
+        "color4": "#FEAA10",
+        "color5": "#FFB615",
+        "color6": "#FFB917",
+        "color7": "#f6d483",
+        "color8": "#ac945b",
+        "color9": "#E3530E",
+        "color10": "#EE710A",
+        "color11": "#F89109",
+        "color12": "#FEAA10",
+        "color13": "#FFB615",
+        "color14": "#FFB917",
+        "color15": "#f6d483"
+    }
+}

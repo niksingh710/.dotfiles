@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Nature/Landscapes/new_zealand/tree_in_water_anaka_otago_ken_cheung.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1a191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#1a191a",
+        "color1": "#413865",
+        "color2": "#494a82",
+        "color3": "#4d5cb6",
+        "color4": "#706392",
+        "color5": "#8373c3",
+        "color6": "#9a87d6",
+        "color7": "#c5c5c5",
+        "color8": "#535253",
+        "color9": "#413865",
+        "color10": "#494a82",
+        "color11": "#4d5cb6",
+        "color12": "#706392",
+        "color13": "#8373c3",
+        "color14": "#9a87d6",
+        "color15": "#c5c5c5"
+    }
+}

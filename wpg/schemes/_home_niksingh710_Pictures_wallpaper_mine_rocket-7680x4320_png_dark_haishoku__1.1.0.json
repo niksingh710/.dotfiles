@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/mine/rocket-7680x4320.png",
+    "alpha": "93",
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#755c70",
+        "color2": "#7e7a6b",
+        "color3": "#cb7d6e",
+        "color4": "#b392ab",
+        "color5": "#a3be8c",
+        "color6": "#d6ab7d",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#755c70",
+        "color10": "#7e7a6b",
+        "color11": "#cb7d6e",
+        "color12": "#b392ab",
+        "color13": "#a3be8c",
+        "color14": "#d6ab7d",
+        "color15": "#c5c5c6"
+    }
+}

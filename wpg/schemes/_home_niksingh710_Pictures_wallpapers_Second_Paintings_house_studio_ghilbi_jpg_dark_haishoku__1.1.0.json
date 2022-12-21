@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/Paintings/house_studio_ghilbi.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171a1a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171a1a",
+        "color1": "#1e6f45",
+        "color2": "#227e6d",
+        "color3": "#04b5d0",
+        "color4": "#1abe80",
+        "color5": "#7b8c84",
+        "color6": "#7dcb8d",
+        "color7": "#c5c5c5",
+        "color8": "#515353",
+        "color9": "#1e6f45",
+        "color10": "#227e6d",
+        "color11": "#04b5d0",
+        "color12": "#1abe80",
+        "color13": "#7b8c84",
+        "color14": "#7dcb8d",
+        "color15": "#c5c5c5"
+    }
+}

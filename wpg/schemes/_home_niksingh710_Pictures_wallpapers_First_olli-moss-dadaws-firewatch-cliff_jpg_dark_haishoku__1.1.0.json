@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/olli-moss-dadaws-firewatch-cliff.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#1d1616",
+        "foreground": "#c6c4c4",
+        "cursor": "#c6c4c4"
+    },
+    "colors": {
+        "color0": "#1d1616",
+        "color1": "#8a3b29",
+        "color2": "#b55430",
+        "color3": "#ad593e",
+        "color4": "#db793a",
+        "color5": "#fdb24d",
+        "color6": "#fdc868",
+        "color7": "#c6c4c4",
+        "color8": "#555050",
+        "color9": "#8a3b29",
+        "color10": "#b55430",
+        "color11": "#ad593e",
+        "color12": "#db793a",
+        "color13": "#fdb24d",
+        "color14": "#fdc868",
+        "color15": "#c6c4c4"
+    }
+}

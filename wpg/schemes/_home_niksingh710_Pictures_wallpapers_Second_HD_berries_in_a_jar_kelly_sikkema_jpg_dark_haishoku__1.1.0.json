@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/berries_in_a_jar_kelly_sikkema.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#191918",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191918",
+        "color1": "#67301b",
+        "color2": "#42403d",
+        "color3": "#4a4d4c",
+        "color4": "#724c31",
+        "color5": "#68665f",
+        "color6": "#a0856f",
+        "color7": "#c5c5c5",
+        "color8": "#525251",
+        "color9": "#67301b",
+        "color10": "#42403d",
+        "color11": "#4a4d4c",
+        "color12": "#724c31",
+        "color13": "#68665f",
+        "color14": "#a0856f",
+        "color15": "#c5c5c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Simplistic/Sunset.jpg",
+    "alpha": "83",
+    "special": {
+        "background": "#181719",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#181719",
+        "color1": "#30385b",
+        "color2": "#7c2a48",
+        "color3": "#913658",
+        "color4": "#c23e64",
+        "color5": "#d3696f",
+        "color6": "#e17a8b",
+        "color7": "#c5c5c5",
+        "color8": "#515152",
+        "color9": "#30385b",
+        "color10": "#7c2a48",
+        "color11": "#913658",
+        "color12": "#c23e64",
+        "color13": "#d3696f",
+        "color14": "#e17a8b",
+        "color15": "#c5c5c5"
+    }
+}

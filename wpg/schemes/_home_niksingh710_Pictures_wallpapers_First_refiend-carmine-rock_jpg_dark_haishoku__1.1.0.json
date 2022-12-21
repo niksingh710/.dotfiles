@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/refiend-carmine-rock.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#19191a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#19191a",
+        "color1": "#3d4355",
+        "color2": "#723e43",
+        "color3": "#475363",
+        "color4": "#7b5741",
+        "color5": "#73686f",
+        "color6": "#b55d42",
+        "color7": "#c5c5c5",
+        "color8": "#525253",
+        "color9": "#3d4355",
+        "color10": "#723e43",
+        "color11": "#475363",
+        "color12": "#7b5741",
+        "color13": "#73686f",
+        "color14": "#b55d42",
+        "color15": "#c5c5c5"
+    }
+}

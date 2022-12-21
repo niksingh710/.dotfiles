@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/HD/typewriter_armin_djuhic.jpg",
+    "alpha": "85",
+    "special": {
+        "background": "#171718",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#171718",
+        "color1": "#4f443e",
+        "color2": "#48484a",
+        "color3": "#5f4c41",
+        "color4": "#5f5d5d",
+        "color5": "#8d8481",
+        "color6": "#948b87",
+        "color7": "#c5c5c5",
+        "color8": "#515151",
+        "color9": "#4f443e",
+        "color10": "#48484a",
+        "color11": "#5f4c41",
+        "color12": "#5f5d5d",
+        "color13": "#8d8481",
+        "color14": "#948b87",
+        "color15": "#c5c5c5"
+    }
+}

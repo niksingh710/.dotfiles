@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/First/dangiuz-leopoldo-d-angelo-westofthesun.png",
+    "alpha": "85",
+    "special": {
+        "background": "#0e0f15",
+        "foreground": "#f3c3cc",
+        "cursor": "#f3c3cc"
+    },
+    "colors": {
+        "color0": "#0e0f15",
+        "color1": "#534272",
+        "color2": "#B04370",
+        "color3": "#384E87",
+        "color4": "#5B5490",
+        "color5": "#A55DA4",
+        "color6": "#E66AAA",
+        "color7": "#f3c3cc",
+        "color8": "#aa888e",
+        "color9": "#534272",
+        "color10": "#B04370",
+        "color11": "#384E87",
+        "color12": "#5B5490",
+        "color13": "#A55DA4",
+        "color14": "#E66AAA",
+        "color15": "#f3c3cc"
+    }
+}

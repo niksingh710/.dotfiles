@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpapers/Second/External Sources/Hal/portrait/steven-van-274118.jpg",
+    "alpha": "80",
+    "special": {
+        "background": "#161617",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#4c6677",
+        "color2": "#868488",
+        "color3": "#939ead",
+        "color4": "#b19e9c",
+        "color5": "#a1aab8",
+        "color6": "#b9a7a5",
+        "color7": "#c4c4c5",
+        "color8": "#505051",
+        "color9": "#4c6677",
+        "color10": "#868488",
+        "color11": "#939ead",
+        "color12": "#b19e9c",
+        "color13": "#a1aab8",
+        "color14": "#b9a7a5",
+        "color15": "#c4c4c5"
+    }
+}

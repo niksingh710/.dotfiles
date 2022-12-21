@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Nordic/Simplistic/nordtheme.png",
+    "alpha": "93",
+    "special": {
+        "background": "#191b22",
+        "foreground": "#e3e7eb",
+        "cursor": "#e3e7eb"
+    },
+    "colors": {
+        "color0": "#191b22",
+        "color1": "#6C92B1",
+        "color2": "#7BA5B5",
+        "color3": "#809DBC",
+        "color4": "#89B5B9",
+        "color5": "#94B8C4",
+        "color6": "#9EC4C8",
+        "color7": "#e3e7eb",
+        "color8": "#9ea1a4",
+        "color9": "#6C92B1",
+        "color10": "#7BA5B5",
+        "color11": "#809DBC",
+        "color12": "#89B5B9",
+        "color13": "#94B8C4",
+        "color14": "#9EC4C8",
+        "color15": "#e3e7eb"
+    }
+}

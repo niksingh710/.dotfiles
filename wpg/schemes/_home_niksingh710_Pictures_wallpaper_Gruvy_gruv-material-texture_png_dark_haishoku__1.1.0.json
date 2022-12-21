@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/niksingh710/Pictures/wallpaper/Gruvy/gruv-material-texture.png",
+    "alpha": "93",
+    "special": {
+        "background": "#1a1a1a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#1a1a1a",
+        "color1": "#465652",
+        "color2": "#546a64",
+        "color3": "#658179",
+        "color4": "#70978e",
+        "color5": "#7daea3",
+        "color6": "#b0a385",
+        "color7": "#c5c5c5",
+        "color8": "#535353",
+        "color9": "#465652",
+        "color10": "#546a64",
+        "color11": "#658179",
+        "color12": "#70978e",
+        "color13": "#7daea3",
+        "color14": "#b0a385",
+        "color15": "#c5c5c5"
+    }
+}
