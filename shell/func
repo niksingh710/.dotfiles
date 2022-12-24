@@ -5,8 +5,9 @@ pkmgr="sudo pacman"
 hash paru 2>/dev/null && pkmgr=paru
 hash yay 2>/dev/null && pkmgr=yay
 
-recent(){
-    echo $(/usr/bin/ls -t | head -n 1)
+getix(){
+  [ $# -eq 1 ] || return
+  curl --silent http://ix.io/$1
 }
 
 getline(){

@@ -20,4 +20,3 @@ hash fnm 2>/dev/null && {
 
 [ -f "$myloc/$shell/config" ] && . "$myloc/$shell/config"
 # hash colorscript 2>/dev/null && colorscript -r
-# neofetch

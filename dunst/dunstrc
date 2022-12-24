@@ -1,10 +1,10 @@
 [colors]
-	background = "#110c04"
-	foreground = "#cee8e0"
+	background = "#033155"
+	foreground = "#dfe9da"
 
 [global]
   ### Display ###
-
+  mouse_left_click = focus
   monitor = 0
   follow = mouse
 
@@ -18,7 +18,7 @@
   horizontal_padding = 4
   frame_width = 3
 
-  frame_color = "#5c8577"
+  frame_color = "#346372"
   separator_color = auto
   sort = yes
   idle_threshold = 120
@@ -81,5 +81,5 @@
   timeout = 10
 
 [urgency_critical]
-  frame_color = "#73A795"
+  frame_color = "#427D8F"
   timeout = 0

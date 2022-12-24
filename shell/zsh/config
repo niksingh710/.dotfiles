@@ -1,6 +1,6 @@
 # This is zsh default config
 
-loc=`realpath $(dirname ${BASH_SOURCE:-$0})`
+loc=`dirname $(realpath ${BASH_SOURCE:-$0})`
 
 fpath+="$loc/completions/"
 
@@ -27,7 +27,7 @@ fpath+="$loc/completions/"
 
   zvm_after_init_commands+=('[ -f "$loc"/afterinit ] && . "$loc"/afterinit')
 }
-
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 hash zoxide 2>/dev/null && eval "$(zoxide init --cmd cd zsh)"
 
 # exporting here as oh-my-zsh overrides them

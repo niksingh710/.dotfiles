@@ -12,6 +12,7 @@ hash rofi 2>/dev/null || {
   notify "Rofi not available"
   exit 1
 }
+
 hash simple-mtpfs 2>/dev/null || {
   notify "simple-mtpfs not available"
   exit 1

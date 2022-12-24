@@ -25,7 +25,7 @@ swaylock \
   --ring-ver-color "$color3" \
   --line-uses-ring \
   --line-color 00000000 \
-  --font 'JetBrainsMono NF:style=Thin,Regular 40' \
+  --font 'Comic Code Ligatures:40' \
   --text-color "$color500" \
   --text-clear-color "$color200" \ #"$color2" \
   --text-wrong-color "$color200" \ #"$color5" \
@@ -36,7 +36,7 @@ swaylock \
   --fade-in .1 \
   --effect-blur 10x10 \
   --clock \
-  --effect-compose "16.7%x29.6%;center;$HOME/.face" \
+  --effect-compose "16.7%x29.6%;center;$HOME/Pictures/icns/escr.png" \
   --daemonize
 
 

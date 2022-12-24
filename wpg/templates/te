@@ -1,47 +1,47 @@
 /* Default color scheme */
-@define-color color0 #110c04;
-@define-color color1 #73A795;
-@define-color color2 #92AF9D;
-@define-color color3 #8CCEB8;
-@define-color color4 #A8C6B3;
-@define-color color5 #94D9C3;
-@define-color color6 #A5DAC9;
-@define-color color7 #cee8e0;
-@define-color color8 #90a29c;
-@define-color color9 #73A795;
-@define-color color10 #92AF9D;
-@define-color color11 #8CCEB8;
-@define-color color12 #A8C6B3;
-@define-color color13 #94D9C3;
-@define-color color14 #A5DAC9;
-@define-color color15 #cee8e0;
+@define-color color0 #033155;
+@define-color color1 #427D8F;
+@define-color color2 #0D9288;
+@define-color color3 #299A93;
+@define-color color4 #09AB8F;
+@define-color color5 #489D9F;
+@define-color color6 #A0CCBA;
+@define-color color7 #dfe9da;
+@define-color color8 #9ca398;
+@define-color color9 #427D8F;
+@define-color color10 #0D9288;
+@define-color color11 #299A93;
+@define-color color12 #09AB8F;
+@define-color color13 #489D9F;
+@define-color color14 #A0CCBA;
+@define-color color15 #dfe9da;
 
 @define-color window_bg_color mix(@color0, @color15, 0.12);
-@define-color window_fg_color #cee8e0;
+@define-color window_fg_color #dfe9da;
 
 
-@define-color accent_color #5c8577;
-@define-color accent_bg_color #5c8577;
-@define-color accent_fg_color #A8C6B3;
+@define-color accent_color #346372;
+@define-color accent_bg_color #346372;
+@define-color accent_fg_color #09AB8F;
 
-@define-color destructive_color #94D9C3;
-@define-color destructive_bg_color #A8C6B3;
-@define-color destructive_fg_color #94D9C3;
+@define-color destructive_color #489D9F;
+@define-color destructive_bg_color #09AB8F;
+@define-color destructive_fg_color #489D9F;
 
 @define-color success_color #53a93f;
-@define-color success_bg_color #A5DAC9;
-@define-color success_fg_color #cee8e0;
+@define-color success_bg_color #A0CCBA;
+@define-color success_fg_color #dfe9da;
 
 @define-color warning_color #f57900;
 @define-color warning_bg_color @window_bg_color;
-@define-color warning_fg_color #cee8e0;
+@define-color warning_fg_color #dfe9da;
 
 @define-color error_color #f52400;
 @define-color error_bg_color #f52400;
-@define-color error_fg_color #cee8e0;
+@define-color error_fg_color #dfe9da;
 
-@define-color view_bg_color #110c04;
-@define-color view_fg_color #cee8e0;
+@define-color view_bg_color #033155;
+@define-color view_fg_color #dfe9da;
 
 @define-color headerbar_bg_color @bg_color;
 @define-color headerbar_fg_color shade(@color15,1.1);
@@ -50,11 +50,11 @@
 @define-color headerbar_shade_color rgb(0,0,0);
 
 @define-color card_bg_color shade(@bg_color,5.1);
-@define-color card_fg_color #cee8e0;
+@define-color card_fg_color #dfe9da;
 @define-color card_shade_color rgb(0,0,0);
 
 @define-color dialog_bg_color @bg_color;
-@define-color dialog_fg_color #cee8e0;
+@define-color dialog_fg_color #dfe9da;
 
 @define-color popover_bg_color mix(@color0, @color15, 0.04);
 @define-color popover_fg_color @color15;

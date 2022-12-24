@@ -1,10 +1,10 @@
-set highlight-color             "#5c8577"
-set highlight-active-color      "#cee8e0"
+set highlight-color             "#346372"
+set highlight-active-color      "#dfe9da"
 
-set default-bg                  "#110c04"
-set default-fg                  "#cee8e0"
-set recolor-lightcolor          "#110c04"
-set recolor-darkcolor           "#cee8e0"
+set default-bg                  "#033155"
+set default-fg                  "#dfe9da"
+set recolor-lightcolor          "#033155"
+set recolor-darkcolor           "#dfe9da"
 
 set statusbar-h-padding 0
 set statusbar-v-padding 0

@@ -10,4 +10,10 @@ killall -q rofi && exit
 
 out=$("$loc/../get-client" | awk '{print $3}')
 
-[ -z "$out" ] || hyprctl dispatch focuswindow "pid:$out"
+[ -z "$out" ] || {
+  hyprctl dispatch focuswindow "pid:$out"
+  [ $(hyprctl activewindow -j | jq '.floating') = true ] && {
+    echo working
+    hyprctl dispatch bringactivetotop none
+  }
+}
